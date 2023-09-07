@@ -4,6 +4,7 @@ abstract class Hosptial_Diagnosis
 {
     public abstract void Heart();
     public abstract void neural();
+    public abstract void ENT();
     
 }
 
@@ -17,6 +18,11 @@ class Diagnosis:Hosptial_Diagnosis
     public override void neural()
     {
         Console.WriteLine("Neural specialist");
+    }
+
+    public override void ENT()
+    {
+        Console.WriteLine(" ENT Specialist")
     }
 }
 
