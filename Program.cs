@@ -6,3 +6,28 @@ abstract class Hosptial_Diagnosis
     public abstract void neural();
     
 }
+
+class Diagnosis:Hosptial_Diagnosis
+{
+    public override void Heart()
+    {
+        Console.WriteLine("HEAR speacialist");
+    }
+
+    public override void neural()
+    {
+        Console.WriteLine("Neural specialist");
+    }
+}
+
+class program
+{
+    public static void Main(string[] args)
+    {
+        Diagnosis specialist1 = new Diagnosis();
+        specialist1.Heart();
+
+        Diagnosis specialist2 = new Diagnosis();
+        specialist2.neural();
+    }
+}

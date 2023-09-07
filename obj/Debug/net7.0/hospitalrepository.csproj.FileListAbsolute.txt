@@ -1,0 +1,15 @@
+D:\hospitalrepository\bin\Debug\net7.0\hospitalrepository.exe
+D:\hospitalrepository\bin\Debug\net7.0\hospitalrepository.deps.json
+D:\hospitalrepository\bin\Debug\net7.0\hospitalrepository.runtimeconfig.json
+D:\hospitalrepository\bin\Debug\net7.0\hospitalrepository.dll
+D:\hospitalrepository\bin\Debug\net7.0\hospitalrepository.pdb
+D:\hospitalrepository\obj\Debug\net7.0\hospitalrepository.csproj.AssemblyReference.cache
+D:\hospitalrepository\obj\Debug\net7.0\hospitalrepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\hospitalrepository\obj\Debug\net7.0\hospitalrepository.AssemblyInfoInputs.cache
+D:\hospitalrepository\obj\Debug\net7.0\hospitalrepository.AssemblyInfo.cs
+D:\hospitalrepository\obj\Debug\net7.0\hospitalrepository.csproj.CoreCompileInputs.cache
+D:\hospitalrepository\obj\Debug\net7.0\hospitalrepository.dll
+D:\hospitalrepository\obj\Debug\net7.0\refint\hospitalrepository.dll
+D:\hospitalrepository\obj\Debug\net7.0\hospitalrepository.pdb
+D:\hospitalrepository\obj\Debug\net7.0\hospitalrepository.genruntimeconfig.cache
+D:\hospitalrepository\obj\Debug\net7.0\ref\hospitalrepository.dll
