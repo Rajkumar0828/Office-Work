@@ -1,4 +1,4 @@
-﻿using system;
+﻿using System;
 
 abstract class Hosptial_Diagnosis
 {
