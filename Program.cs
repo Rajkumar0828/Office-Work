@@ -22,7 +22,7 @@ class Diagnosis:Hosptial_Diagnosis
 
     public override void ENT()
     {
-        Console.WriteLine(" ENT Specialist")
+        Console.WriteLine(" ENT Specialist");
     }
 }
 

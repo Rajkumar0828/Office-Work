@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\hospitalrepository\\hospitalrepository.csproj": {}
+    "d:\\hospitalrepository\\hospitalrepository.csproj": {}
   },
   "projects": {
-    "D:\\hospitalrepository\\hospitalrepository.csproj": {
+    "d:\\hospitalrepository\\hospitalrepository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\hospitalrepository\\hospitalrepository.csproj",
+        "projectUniqueName": "d:\\hospitalrepository\\hospitalrepository.csproj",
         "projectName": "hospitalrepository",
-        "projectPath": "D:\\hospitalrepository\\hospitalrepository.csproj",
+        "projectPath": "d:\\hospitalrepository\\hospitalrepository.csproj",
         "packagesPath": "C:\\Users\\rajkumar.ramanathan\\.nuget\\packages\\",
-        "outputPath": "D:\\hospitalrepository\\obj\\",
+        "outputPath": "d:\\hospitalrepository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rajkumar.ramanathan\\AppData\\Roaming\\NuGet\\NuGet.Config"
