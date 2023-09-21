@@ -1,0 +1,55 @@
+body h1{
+
+  
+    text-align: left;
+
+}
+
+img {
+    width: 500px;
+    background-color: black;
+    width: 10vw;   
+}
+
+.navigation ul {
+    display: flex;
+    justify-content: space-around;
+    color: orange;
+
+}
+ul a {
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    
+    
+
+
+}
+.navigation {
+    background-color: orange;
+    height: 50px;
+
+}
+.content img{
+ 
+     width: 500px;
+    
+}
+p{
+    font-size: 25px;
+    background-color: gray;
+}
+.content {
+    display: flex;
+    
+}
+
+.content p{
+    margin-left: 30px;
+    padding: 20px;
+
+}
+.header{
+    display: flex;
+}

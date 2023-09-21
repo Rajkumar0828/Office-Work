@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<title>Online HTML Editor</title>
+<head>
+</head>
+<body>
+    <from>
+    <span>   Registration Page </span>
+        <table >
+            <tr> <td> Name   </td>   <td> <input type ="textbox" Placeholder="name" </td> </tr> 
+            <tr> <td> DOB  </td>  <td> <input type= "date" </td> </tr>
+            <tr> <td>  Qualification </td>  <td> <input type="Textbox"> </td> </tr>
+            <tr> <td>   </td>  <td> <input type="button" value="submit" </td> </tr>
+        </table>
+    </from>
+
+</body>
+</html>
