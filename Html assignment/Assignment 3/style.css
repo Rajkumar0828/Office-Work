@@ -1,0 +1,173 @@
+
+#navbar{
+    display:flex;
+    /* align-items:center; */
+    justify-content: space-between;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+#navbar li {
+    list-style: none;
+    /* padding:0 20px; */
+    position: relative;
+
+}
+
+#navbar li a {
+    text-decoration:none;
+    font-size:76px;
+    font-weight:1500;
+    color:#1a1a1a;
+    transition: 0.3s ease;
+}
+
+#header2{
+    display: flex;
+    align-items: center;  
+    justify-content: space-between;
+    padding: 20px 80px;
+    background: #E3E6F3;
+    box-shadow: 0 5px 15px rgba(0,0,0, 0.06);
+
+}
+#navbar{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+}
+#navbar li {
+    list-style: none;
+    padding:0 20px;
+    position: relative;
+
+}
+
+#navbar li a {
+    text-decoration:none;
+    font-size:16px;
+    font-weight:600;
+    color:#1a1a1a;
+    transition: 0.3s ease;
+}
+
+#navbar li a:hover,
+#navbar li a.active {
+    color:#c5870b;
+}
+
+#navbar li a.active::after,#navbar li a:hover::after{
+    content:"";
+    width:30%;
+    height:2px;
+    background:#e28711;
+    position:absolute;
+    bottom:-4px;
+    left:20px;
+
+}
+
+
+
+/* Search bar css*/
+body {
+    font-family: Arial;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  form.example input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 50%;
+    background: #f1f1f1;
+    
+    
+  }
+
+  .searchbar{
+    display: block;
+    margin: auto;
+    padding-left: 35%;
+  }
+  
+  
+  form.example button {
+    float: left;
+    width: 5%;
+    padding: 10px;
+    background:#b2cbd6;
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none;
+    cursor: pointer;
+  }
+
+  
+  form.example button:hover {
+    background: #0b7dda;
+  }
+  
+  form.example::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+
+
+
+
+   /* medicine and product */
+
+  .classification{
+    
+    background:white;
+    color: rgb(216, 157, 8);
+    font-size: 25px;
+    border: 1px solid rgb(255, 251, 251);
+    border-left: none;
+    cursor: pointer;
+    padding-left: 30%;
+    margin-left: 150px;
+    margin-right: 150px;
+  }
+
+  /* medicine and product  offer*/
+
+  .medicineoffer {
+    background:#e9eff2;
+    border: 1px solid #77929e;
+    
+
+  }
+
+  .offerlist img{
+   
+    width: 250px;
+  }
+
+  .header5{
+     background-color: #c3c4c8;
+     height: 20%;
+     margin-right: 300px;
+     margin-left: 300px;
+    padding-bottom: 200px;
+     
+       
+  }
+.offerlist{
+    text-indent: 10px;
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.Detail{
+    padding-right: 200px;
+   
+  
+}

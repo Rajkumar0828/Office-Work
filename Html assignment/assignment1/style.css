@@ -1,0 +1,191 @@
+* {
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    font-family:'spartan',sans-serif;
+
+}
+
+#header{
+    display: flex;
+    align-items: center;  
+    justify-content: space-between;
+    padding: 20px 80px;
+    background: white;
+    overflow-x: auto;
+    box-shadow: 0 5px 15px rgba(0,0,0, 0.06);
+    
+}
+#header::-webkit-scrollbar{
+    width: 0;
+}
+#navbar{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+}
+#navbar li {
+    list-style: none;
+    padding:0 20px;
+    position: relative;
+
+}
+#navbar li a {
+    text-decoration:none;
+    font-size:16px;
+    font-weight:600;
+    color:#1a1a1a;
+    transition: 0.3s ease;
+}
+.logo {
+    
+    width: 5vw;
+    /* width: ; */
+   display: flex;
+   
+}
+
+
+
+
+#News{
+    background-image: url("img/news\ background.png");
+    height: 80vh;
+    width:80%;
+    margin: 0 10%;
+    background-size: cover;
+    background-position: top 25% right 0;
+    padding: 0 80px;
+    display:flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    border-radius: 25px;
+
+
+
+}
+
+h1{
+    font-size: 50px;
+    line-height: 64px;
+    color: white;
+
+}
+h2{
+    font-size: 50px;
+    line-height: 64px;
+    color: white;
+
+}
+h3{
+    font-size: 50px;
+    line-height: 64px;
+    color: white;
+}
+h4{
+    font-size: 35px;
+    line-height: 64px;
+    color: white;
+
+}
+
+#newsitems{
+    display: flex;
+    align-items: center;  
+    justify-content: space-between;
+    width:80%;
+    margin: 3% 10%;
+    font-size: 40px;
+    
+    
+
+}
+
+#virusnews{
+    display: flex;
+    align-items: center;  
+    justify-content: space-between;
+    width:80%;
+    margin: 3% 10%;
+    font-size: 40px;
+    
+}
+.news1{
+    display: flex;
+}
+
+.news1 img{
+
+    width: 15vw;
+
+   display: flex;
+   border-radius: 25px;
+     
+}
+#virusnews h5{
+    color:red;
+    font-size: 20px;
+    
+}
+    
+#LIFE-STYLE{
+    display: flex;
+    align-items: center;  
+    justify-content: space-between;
+    width:80%;
+    margin: 3% 10%;
+    font-size: 40px;
+    
+}
+
+#LIFE-STYLE  h6{
+    color: red;
+     
+}
+     
+#LIFE-STYLE .img{
+    align-items: right;
+    border-radius: 25px;
+}
+
+
+
+#Footer{
+    display: flex;
+    align-items: center;  
+    justify-content: space-between;
+    padding: 20px 80px;
+    background: white;
+    overflow-x: auto;
+    box-shadow: 0 5px 15px rgba(0,0,0, 0.06);
+    
+}
+#hFooter::-webkit-scrollbar{
+    width: 0;
+}
+#navbar2{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+}
+#navbar2 li {
+    list-style: none;
+    padding:0 20px;
+    position: relative;
+
+}
+#navbar2 li a {
+    text-decoration:none;
+    font-size:16px;
+    font-weight:600;
+    color:#1a1a1a;
+    transition: 0.3s ease;
+}
+.logo {
+    
+    width: 5vw;
+    /* width: ; */
+   display: flex;
+   
+}
