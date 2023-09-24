@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Change on Blur/Focus</title>
+</head>
+<body>
+    <h1>Image Change on Blur/Focus</h1>
+    
+    <input type="text" id="textInput" onblur="changeImage('blur')" onfocus="changeImage('focus')" placeholder="on focus and on blur">
+    
+    <img id="sampleImage" src="img/flower.jpg" alt="img/blur.jpg">
+
+    <script>
+        
+        function changeImage(eventType) {
+            const imageElement = document.getElementById("sampleImage");
+
+            const blurImageSource = "img/blur.jpg";
+            const focusImageSource = "img/flower.jpg";
+
+            if (eventType === "blur") {
+                imageElement.src = blurImageSource;
+            } else if (eventType === "focus") {
+                imageElement.src = focusImageSource;
+            }
+        }
+    </script>
+</body>
+</html>

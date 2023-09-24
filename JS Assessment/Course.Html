@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Course Information</title>
+</head>
+<body>
+    <h1>Course Information</h1>
+    
+    <form id="courseForm">
+        <label for="courseName">Course Name:</label>
+        <input type="text" id="courseName" required><br><br>
+
+        <label for="courseCode">Course Code:</label>
+        <input type="text" id="courseCode" required><br><br>
+
+        <label for="instructorName">Instructor's Name:</label>
+        <input type="text" id="instructorName" required><br><br>
+
+        <button type="button" id="submitBtn">Submit</button>
+
+    </form>
+
+    <div id="displayCourse"></div>
+
+    <script>
+       
+        function displayCourse() {
+            const courseName = document.getElementById("courseName").value;
+            const courseCode = document.getElementById("courseCode").value;
+            const instructorName = document.getElementById("instructorName").value;
+            
+            const courseInformation = `Course Name: ${courseName}<br>Course Code: ${courseCode}<br>Instructor: ${instructorName}`;
+            
+            document.getElementById("displayCourse").innerHTML = courseInformation;
+        }
+
+        
+        document.getElementById("submitBtn").addEventListener("click", displayCourse);
+    </script>
+</body>
+</html>

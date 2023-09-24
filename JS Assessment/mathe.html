@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Math.E Example</title>
+</head>
+<body>
+    <h1>Calculate e^x using Math.E</h1>
+
+    <form>
+        <label for="exponent">Enter the exponent (x):</label>
+        <input type="number" id="exponent" step="any">
+        <button type="button" onclick="calculateExponential()">Calculate</button>
+    </form>
+
+    <p id="result"></p>
+
+    <script>
+        function calculateExponential() {
+            const exponent = parseFloat(document.getElementById("exponent").value);
+            const result = Math.E ** exponent;
+            document.getElementById("result").textContent = `e^${exponent} = ${result}`;
+        }
+    </script>
+</body>
+</html>

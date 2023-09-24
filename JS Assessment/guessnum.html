@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guess the Number Game</title>
+</head>
+<body>
+    <h1>Guess the Number Game</h1>
+    <p>Guess a number between 1 and 10:</p>
+    <input type="number" id="guessInput">
+    <button onclick="checkGuess()">Submit Guess</button>
+    <p id="message"></p>
+
+    <script>
+       
+        const targetNumber = Math.floor(Math.random() * 10) + 1;
+
+        
+        let numberOfGuesses = 0;
+
+    
+        function checkGuess() {
+            const guessInput = document.getElementById("guessInput");
+            const message = document.getElementById("message");
+            const guess = parseInt(guessInput.value);
+
+            if (isNaN(guess) || guess < 1 || guess > 10) {
+                message.textContent = "Please enter a valid number between 1 and 10.";
+                return;
+            }
+
+            numberOfGuesses++;
+
+            if (guess === targetNumber) {
+                message.textContent = `Congratulations! You guessed the number ${targetNumber} in ${numberOfGuesses} ${numberOfGuesses === 1 ? "guess" : "guesses"}.`;
+                disableInputAndButton();
+            } else if (guess < targetNumber) {
+                message.textContent = "Try a higher number.";
+            } else {
+                message.textContent = "Try a lower number.";
+            }
+
+            guessInput.value = "";
+        }
+
+        // Function to disable input and button after a correct guess
+        function disableInputAndButton() {
+            const guessInput = document.getElementById("guessInput");
+            const submitButton = document.querySelector("button");
+
+            guessInput.disabled = true;
+            submitButton.disabled = true;
+        }
+    </script>
+</body>
+</html>

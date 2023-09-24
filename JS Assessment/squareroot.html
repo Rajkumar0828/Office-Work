@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Square Root Calculator</title>
+</head>
+<body>
+    <h1>Square Root Calculator</h1>
+    
+    <form>
+        <label for="number">Enter a number:</label>
+        <input type="number" id="number">
+        
+        <button type="button" onclick="calculateSquareRoot()">Calculate</button>
+    </form>
+
+    <p id="result"></p>
+
+    <script>
+        function calculateSquareRoot() {
+            const number = parseFloat(document.getElementById("number").value);
+
+            if (isNaN(number) || number < 0) {
+                document.getElementById("result").textContent = "Please enter a valid non-negative number.";
+                return;
+            }
+
+            const squareRoot = Math.sqrt(number);
+
+            document.getElementById("result").textContent = `The square root of ${number} is ${squareRoot.toFixed(2)}.`;
+        }
+    </script>
+</body>
+</html>

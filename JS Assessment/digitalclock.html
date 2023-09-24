@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital Clock</title>
+    <style>
+        /* CSS styles for the clock display */
+        #clock {
+            font-size: 48px;
+            font-weight: bold;
+            text-align: center;
+            margin-top: 50px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Digital Clock</h1>
+    
+    <!-- Clock display element -->
+    <div id="clock">12:00:00 AM</div>
+
+    <script>
+        // Function to update the clock display
+        function updateClock() {
+            const clockElement = document.getElementById("clock");
+            const now = new Date();
+
+            // Get the current time components
+            const hours = now.getHours().toString().padStart(2, '0');
+            const minutes = now.getMinutes().toString().padStart(2, '0');
+            const seconds = now.getSeconds().toString().padStart(2, '0');
+            const ampm = hours >= 12 ? 'PM' : 'AM';
+
+            // Update the clock display
+            clockElement.textContent = `${hours}:${minutes}:${seconds} ${ampm}`;
+        }
+
+        // Update the clock every second
+        setInterval(updateClock, 1000);
+
+        // Initial update
+        updateClock();
+    </script>
+</body>
+</html>
