@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Constructor Dependency injection/1.0.0": {
+        "runtime": {
+          "Constructor Dependency injection.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Constructor Dependency injection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
