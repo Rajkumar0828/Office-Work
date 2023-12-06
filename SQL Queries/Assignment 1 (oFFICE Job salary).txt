@@ -1,0 +1,22 @@
+create table Jobs(
+Job_id int Primary key,
+Job_title Varchar(30),
+Min_salary  int ,
+Max_salary int
+);
+
+Insert into Jobs (Job_id, Job_title, Min_salary, Max_salary) values (11981,'Jr. Software Developer',12000, 16000 ),
+(11982,'Software Trainer',20000, 22000 ), 
+(11983,'Software Tester',18000, 23000 ), 
+(11984,'Admin',18000, 23000 );
+
+Insert into Jobs (Job_id, Job_title, Min_salary, Max_salary) values (11985,'Python Developer',12000, 26000 );
+
+select * from Jobs;
+SET SQL_SAFE_UPDATES = 0;
+
+select Job_title, concat ('Rs.', FORMAT(min_salary,0)) salary from Jobs;
+
+
+
+Alter table Jobs Add check (Max_salary<=25000);

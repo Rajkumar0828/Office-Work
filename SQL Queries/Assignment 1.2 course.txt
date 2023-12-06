@@ -1,0 +1,29 @@
+Create database OfficeDB;
+show tables;
+select * from jobs;
+describe jobs;
+create table courses(
+CID int Primary key,
+CourseName Varchar(30),
+Duration  int,
+Location Varchar(20),
+check(CourseName in("Dotnet", "HTML5", "React"))
+);
+select * from courses;
+Insert into courses (CID, CourseName, Duration,Location) values (1,'React',3, 'Chennai');
+Insert into courses (CID, CourseName, Duration,Location) values (2,'DOTNET',4,'Madurai');
+Insert into courses (CID, CourseName, Duration,Location) values (3,'HTML5',5,'Trichy');
+
+Insert into courses (CID, CourseName, Duration,Location) values (4,'DOTNET',7,'SALAM');
+Insert into courses (CID, CourseName, Duration,Location) values (5,'Python',9,'SALAM');
+select * from Courses where Duration between 2 and 4;
+Alter table Courses Add Location Varchar(20);
+
+UPDATE courses
+SET Duration=2
+WHERE CID = 1;
+select * from courses where CourseName="dotnet" && location!="chennai";
+select * from courses where Duration between 2 and 4;
+
+delete from courses where Duration>7;
+Drop table courses;

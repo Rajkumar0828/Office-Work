@@ -1,0 +1,46 @@
+show tables;
+select * from employee;
+/--- SQL ORDER BY AND FUNCTION CODE---/
+
+
+select * from employee where job_desc in ("HR", "Sales");
+select * from employee where job_desc not in ("Admin", "Sales");
+SET SQL_SAFE_UPDATES = 0;
+
+update employee SET job_desc="Data Scientist" where job_desc="Developer";
+
+-- Distinct and orderby
+Select Distinct job_desc from employee;
+
+select * from employee order by ename;
+
+select * from employee order by salary desc;
+select * from employee order by salary,ename;
+
+select * from employee order by job_desc;
+
+select * from employee order by ( case job_desc 
+when 'Admin' then 2
+when 'Manager' then 2
+when 'Data Scientist' then 3
+Else 100 End
+),ename;
+
+
+-- Functions in sql
+
+select count(*)total_employee from employee;
+
+select count(*)no_of_data_scientists from employee where job_desc='Data Scientist';
+
+select AVG(salary) from employee where job_desc='Data Scientist';
+
+select SUM(salary) from employee where job_desc='Data Scientist';
+
+select UCASE(ename) name, salary from employee;
+
+select ename,char_length(ename) char_count from employee;
+
+select ename, concat ('Rs.', salary) from employee;
+
+select ename, concat ('Rs.', FORMAT(salary,0)) from employee;

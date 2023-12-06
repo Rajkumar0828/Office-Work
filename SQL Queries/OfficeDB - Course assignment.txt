@@ -1,0 +1,85 @@
+Create database CollegeDB;
+
+Show databases;
+use collegedb;
+
+
+show tables;
+drop table courses;
+
+create table course(
+CID int primary key auto_increment  Not Null,
+CourseName Varchar(30),
+Duration  varchar (30)
+);
+
+create table Students(
+SID int Primary key auto_increment not null,
+StudentName Varchar(30),
+CID int ,
+
+foreign key (CID) references course(CID)
+);
+
+create table Professors(
+PID int Primary key,
+ProfessorName Varchar(30),
+Experience varchar(50),
+CID int ,
+foreign key (CID) references course (CID)
+);
+
+Drop table Professors;
+Insert into course (CID, CourseName, Duration) values (11265,'Python',"4 months"),(42576,'Java','3 months'), (33871,'C#','5 months');
+Insert into course ( CourseName, Duration) values ('React',"4 months");
+Insert into Students (SID, StudentName,CID) values (123,'Rajkumar',11265);
+Insert into Students (SID, StudentName,CID) values (324,'Raj',11265);
+
+
+CREATE VIEW JAVA AS
+SELECT CourseName, Duration
+FROM Course
+WHERE CourseName = "Java";
+
+CREATE VIEW Python AS
+SELECT CourseName, Duration
+FROM Course
+WHERE CourseName = "Python";
+
+select * from Python;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Insert into Professors (PID, ProfessorName, Experience,CID) values (1,'Gowtham',"3 years",11265),(2,'Valan',"5 years",42576), (3,'Logesh',"10 years",33871);
+Alter table Professors Add CID int;
+select * from Course;
+select * from Students;
+select * from  Professors;
+
+SELECT C.CourseName, S.StudentName
+FROM Course C
+LEFT JOIN Students S ON C.CID=S.CID;
+
+SELECT S.StudentName,  P.ProfessorName
+FROM Students S
+INNER JOIN Professors P ON S.SID=P.PID;
+
+SELECT P.ProfessorName, C.CourseName
+FROM Professors P
+INNER JOIN Courses C ON P.PID=C.CID;
+
+select @@autocommit;
+
+Delete from course where CID =42578;

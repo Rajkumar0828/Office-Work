@@ -1,0 +1,52 @@
+Create database CollegeDB;
+
+Show databases;
+use collegedb;
+
+
+create table courses(
+CID int Primary key,
+CourseName Varchar(30),
+Duration  varchar (30)
+);
+
+create table Students(
+SID int Primary key,
+StudentName Varchar(30),
+CID INT
+);
+
+create table Professors(
+PID int Primary key,
+ProfessorName Varchar(30),
+Experience varchar(50),
+CID INT
+);
+
+Drop table Professors;
+Insert into courses (CID, CourseName, Duration) values (1,'Python',"4 months"),(2,'Java','3 months'), (3,'C#','5 months');
+Insert into courses (CID, CourseName, Duration) values (5,'R',"7 months");
+Insert into Students (SID, StudentName, CID) values (1,'Rajkumar',1),(2,'Vasan',2), (3,'Kavin',3);
+Insert into Students (SID, StudentName,CID) values (8,'Raj',7);
+Insert into Professors (PID, ProfessorName, Experience,CID) values (1,'Gowtham',"3 years",1),(2,'Valan',"5 years",2), (3,'Logesh',"10 years",3);
+Alter table Professors Add CID int;
+select * from Courses;
+select * from Students;
+select * from  Professors;
+
+SELECT C.CourseName, S.StudentName, C.Duration
+FROM Courses C
+Right outer JOIN Students S ON C.CID=S.SID;
+
+SELECT S.StudentName,  P.ProfessorName
+FROM Students S
+INNER JOIN Professors P ON S.SID=P.PID;
+
+SELECT P.ProfessorName, C.CourseName
+FROM Professors P
+INNER JOIN Courses C ON P.PID=C.CID;
+
+select @@autocommit;
+
+
+set autocommit = 1;

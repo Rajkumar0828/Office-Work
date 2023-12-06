@@ -1,0 +1,18 @@
+-- Date
+ALTER TABLE employee ADD COLUMN Hire_date DATE;
+
+UPDATE employee  SET Hire_date='2015-08-06';
+
+UPDATE employee  SET Hire_date='2023-03-06' where job_desc='Data Scientist';
+
+SELECT NOW();
+
+SELECT curdate();
+
+SELECT DATE_FORMAT(CURDATE(), "%d/%m/%y") AS date;
+
+SELECT DATEDIFF(curdate(), "2023/03/28") AS DAYS;
+
+SELECT date_add(curdate(),Interval 1 week) AS 'after one week';
+
+select date(now()),time(now()),minute(now()),second(now()) ,date_add(now(),interval 12 day); --  date after the 12 days of interval
