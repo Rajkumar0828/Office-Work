@@ -1,0 +1,49 @@
+D:\TeacherManagement EF\bin\Debug\net7.0\TeacherManagement EF.exe
+D:\TeacherManagement EF\bin\Debug\net7.0\TeacherManagement EF.deps.json
+D:\TeacherManagement EF\bin\Debug\net7.0\TeacherManagement EF.runtimeconfig.json
+D:\TeacherManagement EF\bin\Debug\net7.0\TeacherManagement EF.dll
+D:\TeacherManagement EF\bin\Debug\net7.0\TeacherManagement EF.pdb
+D:\TeacherManagement EF\bin\Debug\net7.0\Google.Protobuf.dll
+D:\TeacherManagement EF\bin\Debug\net7.0\Humanizer.dll
+D:\TeacherManagement EF\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\TeacherManagement EF\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TeacherManagement EF\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\TeacherManagement EF\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TeacherManagement EF\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TeacherManagement EF\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+D:\TeacherManagement EF\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+D:\TeacherManagement EF\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TeacherManagement EF\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\TeacherManagement EF\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+D:\TeacherManagement EF\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\TeacherManagement EF\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TeacherManagement EF\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\TeacherManagement EF\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\TeacherManagement EF\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\TeacherManagement EF\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\TeacherManagement EF\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+D:\TeacherManagement EF\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TeacherManagement EF\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\TeacherManagement EF\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\TeacherManagement EF\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\TeacherManagement EF\bin\Debug\net7.0\MySql.Data.dll
+D:\TeacherManagement EF\bin\Debug\net7.0\MySql.Data.EntityFrameworkCore.dll
+D:\TeacherManagement EF\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+D:\TeacherManagement EF\bin\Debug\net7.0\MySqlConnector.dll
+D:\TeacherManagement EF\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\TeacherManagement EF\bin\Debug\net7.0\System.CodeDom.dll
+D:\TeacherManagement EF\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\TeacherManagement EF\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\TeacherManagement EF\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\TeacherManagement EF\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\TeacherManagement EF\obj\Debug\net7.0\TeacherManagement EF.csproj.AssemblyReference.cache
+D:\TeacherManagement EF\obj\Debug\net7.0\TeacherManagement EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\TeacherManagement EF\obj\Debug\net7.0\TeacherManagement EF.AssemblyInfoInputs.cache
+D:\TeacherManagement EF\obj\Debug\net7.0\TeacherManagement EF.AssemblyInfo.cs
+D:\TeacherManagement EF\obj\Debug\net7.0\TeacherManagement EF.csproj.CoreCompileInputs.cache
+D:\TeacherManagement EF\obj\Debug\net7.0\TeacherManagement EF.csproj.CopyComplete
+D:\TeacherManagement EF\obj\Debug\net7.0\TeacherManagement EF.dll
+D:\TeacherManagement EF\obj\Debug\net7.0\refint\TeacherManagement EF.dll
+D:\TeacherManagement EF\obj\Debug\net7.0\TeacherManagement EF.pdb
+D:\TeacherManagement EF\obj\Debug\net7.0\TeacherManagement EF.genruntimeconfig.cache
+D:\TeacherManagement EF\obj\Debug\net7.0\ref\TeacherManagement EF.dll
