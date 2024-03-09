@@ -1,0 +1,116 @@
+The Chain of Responsibility pattern is a behavioral design pattern that allows an object to send a command without knowing which object will handle the request. 
+Imagine a customer service system where a call gets passed from the receptionist to various departments until it reaches the correct person to handle the request. 
+Each person in the chain either handles the request or passes it to the next person in the chain.
+
+Let's implement a simple example in C# to understand this pattern better. We'll create a scenario where requests for leaves (days off) are handled. 
+The request can be approved by a Supervisor, a Manager, or a Director depending on the number of days requested.
+
+
+Step 1: Define the Handler
+First, we define an abstract handler that represents different handlers in the chain.
+
+public abstract class LeaveHandler
+{
+    protected LeaveHandler successor;
+
+    public void SetSuccessor(LeaveHandler successor)
+    {
+        this.successor = successor;
+    }
+
+    public abstract void HandleRequest(LeaveRequest request);
+}
+
+
+
+Step 2: Create Concrete Handlers
+These are specific handlers in the chain that decide either to process the request or pass it along.
+
+public class Supervisor : LeaveHandler
+{
+    public override void HandleRequest(LeaveRequest request)
+    {
+        if (request.NumberOfDays < 3)
+        {
+            Console.WriteLine($"{request.EmployeeName}'s leave approved by Supervisor");
+        }
+        else if (successor != null)
+        {
+            successor.HandleRequest(request);
+        }
+    }
+}
+
+public class Manager : LeaveHandler
+{
+    public override void HandleRequest(LeaveRequest request)
+    {
+        if (request.NumberOfDays < 7)
+        {
+            Console.WriteLine($"{request.EmployeeName}'s leave approved by Manager");
+        }
+        else if (successor != null)
+        {
+            successor.HandleRequest(request);
+        }
+    }
+}
+
+public class Director : LeaveHandler
+{
+    public override void HandleRequest(LeaveRequest request)
+    {
+        // Director can approve any number of days
+        Console.WriteLine($"{request.EmployeeName}'s leave approved by Director");
+    }
+}
+
+
+
+
+Step 3: Define a Request Class
+This class represents requests passed along the chain.
+
+public class LeaveRequest
+{
+    public string EmployeeName { get; set; }
+    public int NumberOfDays { get; set; }
+
+    public LeaveRequest(string employeeName, int numberOfDays)
+    {
+        EmployeeName = employeeName;
+        NumberOfDays = numberOfDays;
+    }
+}
+
+
+Step 4: Using the Chain of Responsibility
+Now, we'll set up the chain and send a request through it.
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        // Set up the chain
+        LeaveHandler supervisor = new Supervisor();
+        LeaveHandler manager = new Manager();
+        LeaveHandler director = new Director();
+
+        supervisor.SetSuccessor(manager);
+        manager.SetSuccessor(director);
+
+        // Make a request
+        LeaveRequest request = new LeaveRequest(employeeName: "John Doe", numberOfDays: 2);
+        supervisor.HandleRequest(request);
+
+        request = new LeaveRequest(employeeName: "Jane Doe", numberOfDays: 5);
+        supervisor.HandleRequest(request);
+
+        request = new LeaveRequest(employeeName: "Jim Beam", numberOfDays: 10);
+        supervisor.HandleRequest(request);
+    }
+}
+
+
+In this simple example, a leave request starts with the Supervisor. If the Supervisor can't approve it (based on the number of days requested), it's passed to the Manager, and then potentially to the Director. Each handler in the chain has the chance to handle the request or pass it along.
+This demonstrates the essence of the Chain of Responsibility pattern, where a request flows through a chain of handlers, giving each a chance to process it.
