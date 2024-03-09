@@ -91,4 +91,5 @@ class Program
         loggerCreator.LogMessage("This is a file log.");
     }
 }
-
+In this example, the LoggerCreator class defines the factory method CreateLogger, and the concrete creators (ConsoleLoggerCreator and FileLoggerCreator) implement this method to instantiate their respective products (ConsoleLogger and FileLogger). The main advantage here is that the Program class does not need to know which logger type it is using; 
+it just knows it can log messages, allowing for flexibility and extensibility in the logging functionality.
