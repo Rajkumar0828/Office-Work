@@ -1,0 +1,11 @@
+LAQpaaZKORvfCz4UiwNR8KuK9Z1V2k85BJTscNReFuNn8Rs+p4g4MOPiYXBLBHhxACOYgnsqoBcm+AStKSC+xw==
+DefaultEndpointsProtocol=https;AccountName=chemippukannaku;AccountKey=LAQpaaZKORvfCz4UiwNR8KuK9Z1V2k85BJTscNReFuNn8Rs+p4g4MOPiYXBLBHhxACOYgnsqoBcm+AStKSC+xw==;EndpointSuffix=core.windows.net
+
+N+Era5hNBv20RkrIYdU+YBB3zNEQKGavdHmqjTYOks6UrLl8davt7g60uo4+BeIEvUpHCHHDu8EI+AStf2ZXiw==
+DefaultEndpointsProtocol=https;AccountName=chemippukannaku;AccountKey=N+Era5hNBv20RkrIYdU+YBB3zNEQKGavdHmqjTYOks6UrLl8davt7g60uo4+BeIEvUpHCHHDu8EI+AStf2ZXiw==;EndpointSuffix=core.windows.net
+
+
+
+setx AZURE_STORAGE_CONNECTION_STRING "DefaultEndpointsProtocol=https;AccountName=chemippukannaku;AccountKey=N+Era5hNBv20RkrIYdU+YBB3zNEQKGavdHmqjTYOks6UrLl8davt7g60uo4+BeIEvUpHCHHDu8EI+AStf2ZXiw==;EndpointSuffix=core.windows.net"
+
+setx AZURE_STORAGE_CONNECTION_STRING "DefaultEndpointsProtocol=https;AccountName=chemippukannaku;AccountKey=LAQpaaZKORvfCz4UiwNR8KuK9Z1V2k85BJTscNReFuNn8Rs+p4g4MOPiYXBLBHhxACOYgnsqoBcm+AStKSC+xw==;EndpointSuffix=core.windows.net" 

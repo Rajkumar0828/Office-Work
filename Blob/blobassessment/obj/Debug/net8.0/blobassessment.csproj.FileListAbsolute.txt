@@ -1,0 +1,14 @@
+D:\C# codes\New folder\blobassessment\obj\Debug\net8.0\blobassessment.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# codes\New folder\blobassessment\obj\Debug\net8.0\blobassessment.AssemblyInfoInputs.cache
+D:\C# codes\New folder\blobassessment\obj\Debug\net8.0\blobassessment.AssemblyInfo.cs
+D:\C# codes\New folder\blobassessment\obj\Debug\net8.0\blobassessment.csproj.CoreCompileInputs.cache
+D:\C# codes\New folder\blobassessment\bin\Debug\net8.0\blobassessment.exe
+D:\C# codes\New folder\blobassessment\bin\Debug\net8.0\blobassessment.deps.json
+D:\C# codes\New folder\blobassessment\bin\Debug\net8.0\blobassessment.runtimeconfig.json
+D:\C# codes\New folder\blobassessment\bin\Debug\net8.0\blobassessment.dll
+D:\C# codes\New folder\blobassessment\bin\Debug\net8.0\blobassessment.pdb
+D:\C# codes\New folder\blobassessment\obj\Debug\net8.0\blobassessment.dll
+D:\C# codes\New folder\blobassessment\obj\Debug\net8.0\refint\blobassessment.dll
+D:\C# codes\New folder\blobassessment\obj\Debug\net8.0\blobassessment.pdb
+D:\C# codes\New folder\blobassessment\obj\Debug\net8.0\blobassessment.genruntimeconfig.cache
+D:\C# codes\New folder\blobassessment\obj\Debug\net8.0\ref\blobassessment.dll
