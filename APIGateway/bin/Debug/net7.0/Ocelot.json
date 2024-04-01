@@ -1,0 +1,19 @@
+{
+    "ReRoutes":[
+        {
+            "UpstreamPathTemplate":"apigateway/customersystem",
+            "UpstreamHttpMethod" :["GET"],
+            "DownstreamPathTemplate":"/api/Customer",
+            "DownstreamScheme":"https",
+            "DownstreamHostAndPorts":[
+                {
+                    "Host":"localhost",
+                    "Port":5063
+                }
+            ]
+            
+           
+        }
+    ]
+    
+}

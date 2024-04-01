@@ -1,0 +1,15 @@
+D:\Arrayrepository\bin\Debug\net7.0\Arrayrepository.exe
+D:\Arrayrepository\bin\Debug\net7.0\Arrayrepository.deps.json
+D:\Arrayrepository\bin\Debug\net7.0\Arrayrepository.runtimeconfig.json
+D:\Arrayrepository\bin\Debug\net7.0\Arrayrepository.dll
+D:\Arrayrepository\bin\Debug\net7.0\Arrayrepository.pdb
+D:\Arrayrepository\obj\Debug\net7.0\Arrayrepository.csproj.AssemblyReference.cache
+D:\Arrayrepository\obj\Debug\net7.0\Arrayrepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arrayrepository\obj\Debug\net7.0\Arrayrepository.AssemblyInfoInputs.cache
+D:\Arrayrepository\obj\Debug\net7.0\Arrayrepository.AssemblyInfo.cs
+D:\Arrayrepository\obj\Debug\net7.0\Arrayrepository.csproj.CoreCompileInputs.cache
+D:\Arrayrepository\obj\Debug\net7.0\Arrayrepository.dll
+D:\Arrayrepository\obj\Debug\net7.0\refint\Arrayrepository.dll
+D:\Arrayrepository\obj\Debug\net7.0\Arrayrepository.pdb
+D:\Arrayrepository\obj\Debug\net7.0\Arrayrepository.genruntimeconfig.cache
+D:\Arrayrepository\obj\Debug\net7.0\ref\Arrayrepository.dll
