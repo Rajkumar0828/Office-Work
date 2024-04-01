@@ -1,0 +1,49 @@
+{
+    "Routes": [
+        {
+            "DownstreamPathTemplate": "/GetProductList",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 5000
+                }
+            ],
+            "UpstreamPathTemplate": "/ProductList",
+            "UpstreamHttpMethod": [
+                "GET"
+            ]
+        },
+        {
+            "DownstreamPathTemplate": "/GetOrderList",
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 5183
+                }
+            ],
+            "UpstreamPathTemplate": "/OrderList",
+            "UpstreamHttpMethod": [
+                "GET"
+            ]
+        },
+         {
+      "DownstreamPathTemplate": "/api/{controller}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5063
+        }
+      ],
+      "UpstreamPathTemplate": "/customerapi/{controller}",
+      "UpstreamHttpMethod": [ "Get", "Put", "Delete", "Post" ]
+    }
+
+       
+    ],
+    "GlobalConfiguration": {
+        "BaseUrl": "https://localhost:5000"
+    }
+}
