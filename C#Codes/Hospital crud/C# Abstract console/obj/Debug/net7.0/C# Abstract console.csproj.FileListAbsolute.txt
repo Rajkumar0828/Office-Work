@@ -1,0 +1,15 @@
+D:\C# codes\Dotnet core Assessments\C# Abstract console\bin\Debug\net7.0\C# Abstract console.exe
+D:\C# codes\Dotnet core Assessments\C# Abstract console\bin\Debug\net7.0\C# Abstract console.deps.json
+D:\C# codes\Dotnet core Assessments\C# Abstract console\bin\Debug\net7.0\C# Abstract console.runtimeconfig.json
+D:\C# codes\Dotnet core Assessments\C# Abstract console\bin\Debug\net7.0\C# Abstract console.dll
+D:\C# codes\Dotnet core Assessments\C# Abstract console\bin\Debug\net7.0\C# Abstract console.pdb
+D:\C# codes\Dotnet core Assessments\C# Abstract console\obj\Debug\net7.0\C# Abstract console.csproj.AssemblyReference.cache
+D:\C# codes\Dotnet core Assessments\C# Abstract console\obj\Debug\net7.0\C# Abstract console.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# codes\Dotnet core Assessments\C# Abstract console\obj\Debug\net7.0\C# Abstract console.AssemblyInfoInputs.cache
+D:\C# codes\Dotnet core Assessments\C# Abstract console\obj\Debug\net7.0\C# Abstract console.AssemblyInfo.cs
+D:\C# codes\Dotnet core Assessments\C# Abstract console\obj\Debug\net7.0\C# Abstract console.csproj.CoreCompileInputs.cache
+D:\C# codes\Dotnet core Assessments\C# Abstract console\obj\Debug\net7.0\C# Abstract console.dll
+D:\C# codes\Dotnet core Assessments\C# Abstract console\obj\Debug\net7.0\refint\C# Abstract console.dll
+D:\C# codes\Dotnet core Assessments\C# Abstract console\obj\Debug\net7.0\C# Abstract console.pdb
+D:\C# codes\Dotnet core Assessments\C# Abstract console\obj\Debug\net7.0\C# Abstract console.genruntimeconfig.cache
+D:\C# codes\Dotnet core Assessments\C# Abstract console\obj\Debug\net7.0\ref\C# Abstract console.dll
