@@ -1,0 +1,15 @@
+C:\Users\rajkumar.ramanathan\Documents\Array C#\bin\Debug\net7.0\Array C#.exe
+C:\Users\rajkumar.ramanathan\Documents\Array C#\bin\Debug\net7.0\Array C#.deps.json
+C:\Users\rajkumar.ramanathan\Documents\Array C#\bin\Debug\net7.0\Array C#.runtimeconfig.json
+C:\Users\rajkumar.ramanathan\Documents\Array C#\bin\Debug\net7.0\Array C#.dll
+C:\Users\rajkumar.ramanathan\Documents\Array C#\bin\Debug\net7.0\Array C#.pdb
+C:\Users\rajkumar.ramanathan\Documents\Array C#\obj\Debug\net7.0\Array C#.csproj.AssemblyReference.cache
+C:\Users\rajkumar.ramanathan\Documents\Array C#\obj\Debug\net7.0\Array C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajkumar.ramanathan\Documents\Array C#\obj\Debug\net7.0\Array C#.AssemblyInfoInputs.cache
+C:\Users\rajkumar.ramanathan\Documents\Array C#\obj\Debug\net7.0\Array C#.AssemblyInfo.cs
+C:\Users\rajkumar.ramanathan\Documents\Array C#\obj\Debug\net7.0\Array C#.csproj.CoreCompileInputs.cache
+C:\Users\rajkumar.ramanathan\Documents\Array C#\obj\Debug\net7.0\Array C#.dll
+C:\Users\rajkumar.ramanathan\Documents\Array C#\obj\Debug\net7.0\refint\Array C#.dll
+C:\Users\rajkumar.ramanathan\Documents\Array C#\obj\Debug\net7.0\Array C#.pdb
+C:\Users\rajkumar.ramanathan\Documents\Array C#\obj\Debug\net7.0\Array C#.genruntimeconfig.cache
+C:\Users\rajkumar.ramanathan\Documents\Array C#\obj\Debug\net7.0\ref\Array C#.dll
