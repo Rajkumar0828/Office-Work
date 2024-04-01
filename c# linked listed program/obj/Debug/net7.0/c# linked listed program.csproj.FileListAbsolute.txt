@@ -1,0 +1,15 @@
+C:\Users\rajkumar.ramanathan\Documents\c# linked listed program\bin\Debug\net7.0\c# linked listed program.exe
+C:\Users\rajkumar.ramanathan\Documents\c# linked listed program\bin\Debug\net7.0\c# linked listed program.deps.json
+C:\Users\rajkumar.ramanathan\Documents\c# linked listed program\bin\Debug\net7.0\c# linked listed program.runtimeconfig.json
+C:\Users\rajkumar.ramanathan\Documents\c# linked listed program\bin\Debug\net7.0\c# linked listed program.dll
+C:\Users\rajkumar.ramanathan\Documents\c# linked listed program\bin\Debug\net7.0\c# linked listed program.pdb
+C:\Users\rajkumar.ramanathan\Documents\c# linked listed program\obj\Debug\net7.0\c# linked listed program.csproj.AssemblyReference.cache
+C:\Users\rajkumar.ramanathan\Documents\c# linked listed program\obj\Debug\net7.0\c# linked listed program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajkumar.ramanathan\Documents\c# linked listed program\obj\Debug\net7.0\c# linked listed program.AssemblyInfoInputs.cache
+C:\Users\rajkumar.ramanathan\Documents\c# linked listed program\obj\Debug\net7.0\c# linked listed program.AssemblyInfo.cs
+C:\Users\rajkumar.ramanathan\Documents\c# linked listed program\obj\Debug\net7.0\c# linked listed program.csproj.CoreCompileInputs.cache
+C:\Users\rajkumar.ramanathan\Documents\c# linked listed program\obj\Debug\net7.0\c# linked listed program.dll
+C:\Users\rajkumar.ramanathan\Documents\c# linked listed program\obj\Debug\net7.0\refint\c# linked listed program.dll
+C:\Users\rajkumar.ramanathan\Documents\c# linked listed program\obj\Debug\net7.0\c# linked listed program.pdb
+C:\Users\rajkumar.ramanathan\Documents\c# linked listed program\obj\Debug\net7.0\c# linked listed program.genruntimeconfig.cache
+C:\Users\rajkumar.ramanathan\Documents\c# linked listed program\obj\Debug\net7.0\ref\c# linked listed program.dll

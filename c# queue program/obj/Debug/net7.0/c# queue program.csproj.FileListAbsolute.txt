@@ -1,0 +1,15 @@
+C:\Users\rajkumar.ramanathan\Documents\c# queue program\bin\Debug\net7.0\c# queue program.exe
+C:\Users\rajkumar.ramanathan\Documents\c# queue program\bin\Debug\net7.0\c# queue program.deps.json
+C:\Users\rajkumar.ramanathan\Documents\c# queue program\bin\Debug\net7.0\c# queue program.runtimeconfig.json
+C:\Users\rajkumar.ramanathan\Documents\c# queue program\bin\Debug\net7.0\c# queue program.dll
+C:\Users\rajkumar.ramanathan\Documents\c# queue program\bin\Debug\net7.0\c# queue program.pdb
+C:\Users\rajkumar.ramanathan\Documents\c# queue program\obj\Debug\net7.0\c# queue program.csproj.AssemblyReference.cache
+C:\Users\rajkumar.ramanathan\Documents\c# queue program\obj\Debug\net7.0\c# queue program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajkumar.ramanathan\Documents\c# queue program\obj\Debug\net7.0\c# queue program.AssemblyInfoInputs.cache
+C:\Users\rajkumar.ramanathan\Documents\c# queue program\obj\Debug\net7.0\c# queue program.AssemblyInfo.cs
+C:\Users\rajkumar.ramanathan\Documents\c# queue program\obj\Debug\net7.0\c# queue program.csproj.CoreCompileInputs.cache
+C:\Users\rajkumar.ramanathan\Documents\c# queue program\obj\Debug\net7.0\c# queue program.dll
+C:\Users\rajkumar.ramanathan\Documents\c# queue program\obj\Debug\net7.0\refint\c# queue program.dll
+C:\Users\rajkumar.ramanathan\Documents\c# queue program\obj\Debug\net7.0\c# queue program.pdb
+C:\Users\rajkumar.ramanathan\Documents\c# queue program\obj\Debug\net7.0\c# queue program.genruntimeconfig.cache
+C:\Users\rajkumar.ramanathan\Documents\c# queue program\obj\Debug\net7.0\ref\c# queue program.dll
