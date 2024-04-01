@@ -1,0 +1,14 @@
+D:\C# codes\Design pattern Programs\Adapter Method\bin\Debug\net8.0\Adapter Method.exe
+D:\C# codes\Design pattern Programs\Adapter Method\bin\Debug\net8.0\Adapter Method.deps.json
+D:\C# codes\Design pattern Programs\Adapter Method\bin\Debug\net8.0\Adapter Method.runtimeconfig.json
+D:\C# codes\Design pattern Programs\Adapter Method\bin\Debug\net8.0\Adapter Method.dll
+D:\C# codes\Design pattern Programs\Adapter Method\bin\Debug\net8.0\Adapter Method.pdb
+D:\C# codes\Design pattern Programs\Adapter Method\obj\Debug\net8.0\Adapter Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# codes\Design pattern Programs\Adapter Method\obj\Debug\net8.0\Adapter Method.AssemblyInfoInputs.cache
+D:\C# codes\Design pattern Programs\Adapter Method\obj\Debug\net8.0\Adapter Method.AssemblyInfo.cs
+D:\C# codes\Design pattern Programs\Adapter Method\obj\Debug\net8.0\Adapter Method.csproj.CoreCompileInputs.cache
+D:\C# codes\Design pattern Programs\Adapter Method\obj\Debug\net8.0\Adapter Method.dll
+D:\C# codes\Design pattern Programs\Adapter Method\obj\Debug\net8.0\refint\Adapter Method.dll
+D:\C# codes\Design pattern Programs\Adapter Method\obj\Debug\net8.0\Adapter Method.pdb
+D:\C# codes\Design pattern Programs\Adapter Method\obj\Debug\net8.0\Adapter Method.genruntimeconfig.cache
+D:\C# codes\Design pattern Programs\Adapter Method\obj\Debug\net8.0\ref\Adapter Method.dll

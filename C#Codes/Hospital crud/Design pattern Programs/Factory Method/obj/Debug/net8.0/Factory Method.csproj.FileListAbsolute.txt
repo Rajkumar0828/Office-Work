@@ -1,0 +1,14 @@
+D:\C# codes\Design pattern Programs\Factory Method\obj\Debug\net8.0\Factory Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# codes\Design pattern Programs\Factory Method\obj\Debug\net8.0\Factory Method.AssemblyInfoInputs.cache
+D:\C# codes\Design pattern Programs\Factory Method\obj\Debug\net8.0\Factory Method.AssemblyInfo.cs
+D:\C# codes\Design pattern Programs\Factory Method\obj\Debug\net8.0\Factory Method.csproj.CoreCompileInputs.cache
+D:\C# codes\Design pattern Programs\Factory Method\bin\Debug\net8.0\Factory Method.exe
+D:\C# codes\Design pattern Programs\Factory Method\bin\Debug\net8.0\Factory Method.deps.json
+D:\C# codes\Design pattern Programs\Factory Method\bin\Debug\net8.0\Factory Method.runtimeconfig.json
+D:\C# codes\Design pattern Programs\Factory Method\bin\Debug\net8.0\Factory Method.dll
+D:\C# codes\Design pattern Programs\Factory Method\bin\Debug\net8.0\Factory Method.pdb
+D:\C# codes\Design pattern Programs\Factory Method\obj\Debug\net8.0\Factory Method.dll
+D:\C# codes\Design pattern Programs\Factory Method\obj\Debug\net8.0\refint\Factory Method.dll
+D:\C# codes\Design pattern Programs\Factory Method\obj\Debug\net8.0\Factory Method.pdb
+D:\C# codes\Design pattern Programs\Factory Method\obj\Debug\net8.0\Factory Method.genruntimeconfig.cache
+D:\C# codes\Design pattern Programs\Factory Method\obj\Debug\net8.0\ref\Factory Method.dll
