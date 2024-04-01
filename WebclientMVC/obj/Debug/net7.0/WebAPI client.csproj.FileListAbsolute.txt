@@ -1,0 +1,34 @@
+D:\WebAPI client\bin\Debug\net7.0\appsettings.Development.json
+D:\WebAPI client\bin\Debug\net7.0\appsettings.json
+D:\WebAPI client\bin\Debug\net7.0\WebAPI client.staticwebassets.runtime.json
+D:\WebAPI client\bin\Debug\net7.0\WebAPI client.exe
+D:\WebAPI client\bin\Debug\net7.0\WebAPI client.deps.json
+D:\WebAPI client\bin\Debug\net7.0\WebAPI client.runtimeconfig.json
+D:\WebAPI client\bin\Debug\net7.0\WebAPI client.dll
+D:\WebAPI client\bin\Debug\net7.0\WebAPI client.pdb
+D:\WebAPI client\obj\Debug\net7.0\WebAPI client.csproj.AssemblyReference.cache
+D:\WebAPI client\obj\Debug\net7.0\WebAPI client.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebAPI client\obj\Debug\net7.0\WebAPI client.AssemblyInfoInputs.cache
+D:\WebAPI client\obj\Debug\net7.0\WebAPI client.AssemblyInfo.cs
+D:\WebAPI client\obj\Debug\net7.0\WebAPI client.csproj.CoreCompileInputs.cache
+D:\WebAPI client\obj\Debug\net7.0\WebAPI client.MvcApplicationPartsAssemblyInfo.cache
+D:\WebAPI client\obj\Debug\net7.0\WebAPI client.RazorAssemblyInfo.cache
+D:\WebAPI client\obj\Debug\net7.0\WebAPI client.RazorAssemblyInfo.cs
+D:\WebAPI client\obj\Debug\net7.0\staticwebassets\msbuild.WebAPI client.Microsoft.AspNetCore.StaticWebAssets.props
+D:\WebAPI client\obj\Debug\net7.0\staticwebassets\msbuild.build.WebAPI client.props
+D:\WebAPI client\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI client.props
+D:\WebAPI client\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebAPI client.props
+D:\WebAPI client\obj\Debug\net7.0\staticwebassets.pack.json
+D:\WebAPI client\obj\Debug\net7.0\staticwebassets.build.json
+D:\WebAPI client\obj\Debug\net7.0\staticwebassets.development.json
+D:\WebAPI client\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\WebAPI client\obj\Debug\net7.0\scopedcss\bundle\WebAPI client.styles.css
+D:\WebAPI client\obj\Debug\net7.0\scopedcss\projectbundle\WebAPI client.bundle.scp.css
+D:\WebAPI client\obj\Debug\net7.0\WebAPI client.dll
+D:\WebAPI client\obj\Debug\net7.0\refint\WebAPI client.dll
+D:\WebAPI client\obj\Debug\net7.0\WebAPI client.pdb
+D:\WebAPI client\obj\Debug\net7.0\WebAPI client.genruntimeconfig.cache
+D:\WebAPI client\obj\Debug\net7.0\ref\WebAPI client.dll
+D:\WebAPI client\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\WebAPI client\obj\Debug\net7.0\WebAPI client.csproj.CopyComplete
+D:\WebAPI client\obj\Debug\net7.0\WebAPI client.sourcelink.json

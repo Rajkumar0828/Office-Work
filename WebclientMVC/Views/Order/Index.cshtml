@@ -1,0 +1,80 @@
+@model IEnumerable<APICrudclient.Models.OrderModel>
+
+@{
+    ViewData["Title"]="Index";
+}
+
+<h1>Order</h1>
+
+@* <p>
+    <a asp-action="Create" class="btn btn-primary">Create New</a>
+</p> *@
+
+
+<table class="table">
+     
+      <thead>
+         <tr>
+            
+
+            <th>
+                @Html.DisplayNameFor(model => model.Order_Id )
+             </th>
+             <th>
+                @Html.DisplayNameFor(model => model.Customer_Id)
+             </th>
+         
+             <th>
+                @Html.DisplayNameFor(model => model.Order_date)
+             </th>
+             <th>
+                @Html.DisplayNameFor(model => model.Total_price)
+             </th>
+
+         <th></th>
+
+
+
+         </tr>
+
+      </thead>
+
+      <tbody>
+
+        @foreach (var item in Model){
+            <tr>
+
+                 
+
+                  <td>
+                     @Html.DisplayFor(modelItem => item.Order_Id)
+                  </td>
+
+                  <td>
+                     @Html.DisplayFor(modelItem => item.Customer_Id)
+                  </td>
+
+                  <td>
+                     @Html.DisplayFor(modelItem => item.Order_date)
+                  </td>
+
+                   <td>
+                     @Html.DisplayFor(modelItem => item.Total_price)
+                  </td>
+
+                  @* <td>
+                     @Html.ActionLink("Edit","Edit",new{id=item.Id},new { @class = "btn btn-primary" }) |
+
+                     @Html.ActionLink("Details","Details",new{id=item.Id},new { @class = "btn btn-secondary" }) |
+
+                     @Html.ActionLink("Delete","Delete",new{id=item.Id},new { @class = "btn btn-danger" }) |
+
+
+                  </td> *@
+
+
+            </tr>
+        }
+      </tbody>
+    
+</table>
