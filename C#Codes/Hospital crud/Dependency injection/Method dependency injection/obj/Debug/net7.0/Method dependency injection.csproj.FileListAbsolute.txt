@@ -1,0 +1,15 @@
+D:\C# codes\Dependency injection\Method dependency injection\bin\Debug\net7.0\Method dependency injection.exe
+D:\C# codes\Dependency injection\Method dependency injection\bin\Debug\net7.0\Method dependency injection.deps.json
+D:\C# codes\Dependency injection\Method dependency injection\bin\Debug\net7.0\Method dependency injection.runtimeconfig.json
+D:\C# codes\Dependency injection\Method dependency injection\bin\Debug\net7.0\Method dependency injection.dll
+D:\C# codes\Dependency injection\Method dependency injection\bin\Debug\net7.0\Method dependency injection.pdb
+D:\C# codes\Dependency injection\Method dependency injection\obj\Debug\net7.0\Method dependency injection.csproj.AssemblyReference.cache
+D:\C# codes\Dependency injection\Method dependency injection\obj\Debug\net7.0\Method dependency injection.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# codes\Dependency injection\Method dependency injection\obj\Debug\net7.0\Method dependency injection.AssemblyInfoInputs.cache
+D:\C# codes\Dependency injection\Method dependency injection\obj\Debug\net7.0\Method dependency injection.AssemblyInfo.cs
+D:\C# codes\Dependency injection\Method dependency injection\obj\Debug\net7.0\Method dependency injection.csproj.CoreCompileInputs.cache
+D:\C# codes\Dependency injection\Method dependency injection\obj\Debug\net7.0\Method dependency injection.dll
+D:\C# codes\Dependency injection\Method dependency injection\obj\Debug\net7.0\refint\Method dependency injection.dll
+D:\C# codes\Dependency injection\Method dependency injection\obj\Debug\net7.0\Method dependency injection.pdb
+D:\C# codes\Dependency injection\Method dependency injection\obj\Debug\net7.0\Method dependency injection.genruntimeconfig.cache
+D:\C# codes\Dependency injection\Method dependency injection\obj\Debug\net7.0\ref\Method dependency injection.dll
