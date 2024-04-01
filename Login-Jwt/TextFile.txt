@@ -1,0 +1,14 @@
+﻿//const computePasswordToSha256Hash = (plainText) => {
+    // Create a SHA256 hash from string
+//    const sha256Hash = crypto.createHash('sha256');
+
+    // Computing Hash - returns here byte array
+  //  const bytes = sha256Hash.update(plainText, 'utf8').digest();
+
+    // now convert byte array to a string
+    //let stringBuilder = '';
+    //for (let i = 0; i < bytes.length; i++) {
+       // stringBuilder += bytes[i].toString('hex');
+    //}
+    //return stringBuilder;
+//};
