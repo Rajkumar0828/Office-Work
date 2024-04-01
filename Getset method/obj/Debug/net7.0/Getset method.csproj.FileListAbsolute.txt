@@ -1,0 +1,15 @@
+C:\Users\rajkumar.ramanathan\Documents\Getset method\bin\Debug\net7.0\Getset method.exe
+C:\Users\rajkumar.ramanathan\Documents\Getset method\bin\Debug\net7.0\Getset method.deps.json
+C:\Users\rajkumar.ramanathan\Documents\Getset method\bin\Debug\net7.0\Getset method.runtimeconfig.json
+C:\Users\rajkumar.ramanathan\Documents\Getset method\bin\Debug\net7.0\Getset method.dll
+C:\Users\rajkumar.ramanathan\Documents\Getset method\bin\Debug\net7.0\Getset method.pdb
+C:\Users\rajkumar.ramanathan\Documents\Getset method\obj\Debug\net7.0\Getset method.csproj.AssemblyReference.cache
+C:\Users\rajkumar.ramanathan\Documents\Getset method\obj\Debug\net7.0\Getset method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajkumar.ramanathan\Documents\Getset method\obj\Debug\net7.0\Getset method.AssemblyInfoInputs.cache
+C:\Users\rajkumar.ramanathan\Documents\Getset method\obj\Debug\net7.0\Getset method.AssemblyInfo.cs
+C:\Users\rajkumar.ramanathan\Documents\Getset method\obj\Debug\net7.0\Getset method.csproj.CoreCompileInputs.cache
+C:\Users\rajkumar.ramanathan\Documents\Getset method\obj\Debug\net7.0\Getset method.dll
+C:\Users\rajkumar.ramanathan\Documents\Getset method\obj\Debug\net7.0\refint\Getset method.dll
+C:\Users\rajkumar.ramanathan\Documents\Getset method\obj\Debug\net7.0\Getset method.pdb
+C:\Users\rajkumar.ramanathan\Documents\Getset method\obj\Debug\net7.0\Getset method.genruntimeconfig.cache
+C:\Users\rajkumar.ramanathan\Documents\Getset method\obj\Debug\net7.0\ref\Getset method.dll

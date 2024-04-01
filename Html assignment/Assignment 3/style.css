@@ -90,8 +90,9 @@ body {
 
   .searchbar{
     display: block;
-    margin: auto;
+    margin: 20px 20px;
     padding-left: 35%;
+
   }
   
   
@@ -124,17 +125,19 @@ body {
 
    /* medicine and product */
 
-  .classification{
+  .classification a{
     
     background:white;
     color: rgb(216, 157, 8);
-    font-size: 25px;
+    font-size: 20px;
     border: 1px solid rgb(255, 251, 251);
     border-left: none;
     cursor: pointer;
-    padding-left: 30%;
-    margin-left: 150px;
-    margin-right: 150px;
+    padding-left: 500px;
+    margin-top: 500px;
+    margin-bottom: 500px;
+    
+    text-decoration: none;
   }
 
   /* medicine and product  offer*/
@@ -161,7 +164,7 @@ body {
        
   }
 .offerlist{
-    text-indent: 10px;
+    
     display: flex;
     margin-left: 100px;
     margin-right: 100px;
