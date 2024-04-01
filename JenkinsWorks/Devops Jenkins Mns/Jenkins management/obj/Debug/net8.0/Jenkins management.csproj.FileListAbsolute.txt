@@ -1,0 +1,33 @@
+D:\Devops assesemnt project\Jenkins management\Jenkins management\bin\Debug\net8.0\appsettings.Development.json
+D:\Devops assesemnt project\Jenkins management\Jenkins management\bin\Debug\net8.0\appsettings.json
+D:\Devops assesemnt project\Jenkins management\Jenkins management\bin\Debug\net8.0\Jenkins management.exe
+D:\Devops assesemnt project\Jenkins management\Jenkins management\bin\Debug\net8.0\Jenkins management.deps.json
+D:\Devops assesemnt project\Jenkins management\Jenkins management\bin\Debug\net8.0\Jenkins management.runtimeconfig.json
+D:\Devops assesemnt project\Jenkins management\Jenkins management\bin\Debug\net8.0\Jenkins management.dll
+D:\Devops assesemnt project\Jenkins management\Jenkins management\bin\Debug\net8.0\Jenkins management.pdb
+D:\Devops assesemnt project\Jenkins management\Jenkins management\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Devops assesemnt project\Jenkins management\Jenkins management\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Devops assesemnt project\Jenkins management\Jenkins management\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Devops assesemnt project\Jenkins management\Jenkins management\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Devops assesemnt project\Jenkins management\Jenkins management\obj\Debug\net8.0\Jenkins management.csproj.AssemblyReference.cache
+D:\Devops assesemnt project\Jenkins management\Jenkins management\obj\Debug\net8.0\Jenkins management.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devops assesemnt project\Jenkins management\Jenkins management\obj\Debug\net8.0\Jenkins management.AssemblyInfoInputs.cache
+D:\Devops assesemnt project\Jenkins management\Jenkins management\obj\Debug\net8.0\Jenkins management.AssemblyInfo.cs
+D:\Devops assesemnt project\Jenkins management\Jenkins management\obj\Debug\net8.0\Jenkins management.csproj.CoreCompileInputs.cache
+D:\Devops assesemnt project\Jenkins management\Jenkins management\obj\Debug\net8.0\Jenkins management.MvcApplicationPartsAssemblyInfo.cs
+D:\Devops assesemnt project\Jenkins management\Jenkins management\obj\Debug\net8.0\Jenkins management.MvcApplicationPartsAssemblyInfo.cache
+D:\Devops assesemnt project\Jenkins management\Jenkins management\obj\Debug\net8.0\staticwebassets.build.json
+D:\Devops assesemnt project\Jenkins management\Jenkins management\obj\Debug\net8.0\staticwebassets.development.json
+D:\Devops assesemnt project\Jenkins management\Jenkins management\obj\Debug\net8.0\staticwebassets\msbuild.Jenkins management.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Devops assesemnt project\Jenkins management\Jenkins management\obj\Debug\net8.0\staticwebassets\msbuild.build.Jenkins management.props
+D:\Devops assesemnt project\Jenkins management\Jenkins management\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Jenkins management.props
+D:\Devops assesemnt project\Jenkins management\Jenkins management\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Jenkins management.props
+D:\Devops assesemnt project\Jenkins management\Jenkins management\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Devops assesemnt project\Jenkins management\Jenkins management\obj\Debug\net8.0\scopedcss\bundle\Jenkins management.styles.css
+D:\Devops assesemnt project\Jenkins management\Jenkins management\obj\Debug\net8.0\Jenkins management.csproj.CopyComplete
+D:\Devops assesemnt project\Jenkins management\Jenkins management\obj\Debug\net8.0\Jenkins management.dll
+D:\Devops assesemnt project\Jenkins management\Jenkins management\obj\Debug\net8.0\refint\Jenkins management.dll
+D:\Devops assesemnt project\Jenkins management\Jenkins management\obj\Debug\net8.0\Jenkins management.pdb
+D:\Devops assesemnt project\Jenkins management\Jenkins management\obj\Debug\net8.0\Jenkins management.genruntimeconfig.cache
+D:\Devops assesemnt project\Jenkins management\Jenkins management\obj\Debug\net8.0\ref\Jenkins management.dll
+D:\Devops assesemnt project\Jenkins management\Jenkins management\obj\Debug\net8.0\Jenkins management.sourcelink.json
