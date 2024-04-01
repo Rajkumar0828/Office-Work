@@ -1,0 +1,40 @@
+D:\Dotnet\Dotnet sql\obj\Debug\net7.0\Dotnet sql.csproj.AssemblyReference.cache
+D:\Dotnet\Dotnet sql\obj\Debug\net7.0\Dotnet sql.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\Dotnet sql\obj\Debug\net7.0\Dotnet sql.AssemblyInfoInputs.cache
+D:\Dotnet\Dotnet sql\obj\Debug\net7.0\Dotnet sql.AssemblyInfo.cs
+D:\Dotnet\Dotnet sql\obj\Debug\net7.0\Dotnet sql.csproj.CoreCompileInputs.cache
+D:\Dotnet\Dotnet sql\bin\Debug\net7.0\Dotnet sql.exe
+D:\Dotnet\Dotnet sql\bin\Debug\net7.0\Dotnet sql.deps.json
+D:\Dotnet\Dotnet sql\bin\Debug\net7.0\Dotnet sql.runtimeconfig.json
+D:\Dotnet\Dotnet sql\bin\Debug\net7.0\Dotnet sql.dll
+D:\Dotnet\Dotnet sql\bin\Debug\net7.0\Dotnet sql.pdb
+D:\Dotnet\Dotnet sql\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+D:\Dotnet\Dotnet sql\bin\Debug\net7.0\Google.Protobuf.dll
+D:\Dotnet\Dotnet sql\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+D:\Dotnet\Dotnet sql\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+D:\Dotnet\Dotnet sql\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+D:\Dotnet\Dotnet sql\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Dotnet\Dotnet sql\bin\Debug\net7.0\MySql.Data.dll
+D:\Dotnet\Dotnet sql\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Dotnet\Dotnet sql\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Dotnet\Dotnet sql\bin\Debug\net7.0\System.IO.Pipelines.dll
+D:\Dotnet\Dotnet sql\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dotnet\Dotnet sql\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Dotnet\Dotnet sql\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Dotnet\Dotnet sql\bin\Debug\net7.0\ZstdSharp.dll
+D:\Dotnet\Dotnet sql\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Dotnet\Dotnet sql\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+D:\Dotnet\Dotnet sql\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+D:\Dotnet\Dotnet sql\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+D:\Dotnet\Dotnet sql\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+D:\Dotnet\Dotnet sql\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+D:\Dotnet\Dotnet sql\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Dotnet\Dotnet sql\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Dotnet\Dotnet sql\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dotnet\Dotnet sql\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Dotnet\Dotnet sql\obj\Debug\net7.0\Dotnet sql.csproj.CopyComplete
+D:\Dotnet\Dotnet sql\obj\Debug\net7.0\Dotnet sql.dll
+D:\Dotnet\Dotnet sql\obj\Debug\net7.0\refint\Dotnet sql.dll
+D:\Dotnet\Dotnet sql\obj\Debug\net7.0\Dotnet sql.pdb
+D:\Dotnet\Dotnet sql\obj\Debug\net7.0\Dotnet sql.genruntimeconfig.cache
+D:\Dotnet\Dotnet sql\obj\Debug\net7.0\ref\Dotnet sql.dll
