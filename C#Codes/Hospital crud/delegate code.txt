@@ -1,0 +1,36 @@
+using System;
+
+// Define a generic delegate for arithmetic operations with multiple generic types
+public delegate T ArithmeticOperation<T>(T num1, T num2);
+
+class Calculator
+{
+    static void Main()
+    {
+        // Create instances of the delegate for addition and subtraction with different types
+        ArithmeticOperation<int> addDelegate =Add;
+        ArithmeticOperation<int> subtractDelegate = Subtract;
+
+        // Perform addition
+        double resultAddition = addDelegate(5, 3);
+        Console.WriteLine($"5 + 3.5 = {resultAddition}");
+
+        // Perform subtraction
+        double resultSubtraction = subtractDelegate(8, 3);
+        Console.WriteLine($"8.7 - 3 = {resultSubtraction}");
+    }
+
+    // Generic method for addition with multiple generic types
+    static T Add<T>(T num1, T num2)
+    {
+        dynamic? a = num1, b = num2;
+        return a + b;
+    }
+
+    // Generic method for subtraction with multiple generic types
+    static T Subtract<T>(T num1, T num2)
+    {
+        dynamic?a = num1, b = num2;
+        return a - b;
+    }
+}

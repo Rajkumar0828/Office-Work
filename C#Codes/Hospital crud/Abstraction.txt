@@ -1,0 +1,78 @@
+using System;
+namespace Assignment3;
+abstract class Rules{
+    public abstract void Qualification();
+    public void Eligibility(){
+        Console.WriteLine("Enter the 12th mark cutoff :");
+        int cutoff=Convert.ToInt32(Console.ReadLine());
+      
+    
+
+       
+       
+        if(cutoff<150 ){
+            Console.WriteLine("Not Eligible for Higher Education:");
+        }
+       
+            
+        }
+
+    
+    
+
+
+}
+class UGAdmission : Rules
+{
+    string Ans;
+    public override void Qualification(){
+        Console.WriteLine("Enter Whether you have completed 12th Standard \n whether you have completed polytechnic  :");
+         Ans=Console.ReadLine();
+        if(Ans!="Yes"){
+            Console.WriteLine("You need to complete 12th");
+        }else{
+            Console.WriteLine("You are eligible for BE/BTech");
+        }
+
+    }
+}
+class PGAdmission : Rules
+{
+    string Ans;
+    public override void Qualification(){
+        Console.WriteLine("Enter the degree you are completed :");
+         Ans=Console.ReadLine();
+         Console.WriteLine("Enter the Gatecutoff mark cutoff :");
+        int Gatecutoff=Convert.ToInt32(Console.ReadLine());
+       
+        
+        Console.WriteLine("If not applicable for Gate cutoff enter Not applicable :");
+        string Gatecutoffscore=Console.ReadLine();
+       
+        if(Ans=="BE"||Ans=="BTech"){
+            Console.WriteLine("You are eligible for ME/MTech");
+        }
+         else if(Gatecutoff<32){
+             Console.WriteLine("you have scholarship for your PG course");
+        }
+        else if(Gatecutoffscore!="Not applicable"){
+            Console.WriteLine("you have  no scholarship for your PG course");
+
+        }
+        else{
+             Console.WriteLine("You are not eligible for ME/MTech");
+        }
+
+    }
+
+public class Program{
+    public static void Main(string[] args){
+        UGAdmission ug=new UGAdmission();
+        ug.Eligibility();
+        ug.Qualification();
+       PGAdmission pg=new PGAdmission();
+       pg.Eligibility();
+       pg.Qualification();
+    }
+}
+}

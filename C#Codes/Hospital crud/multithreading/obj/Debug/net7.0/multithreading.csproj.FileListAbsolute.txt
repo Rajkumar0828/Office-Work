@@ -1,0 +1,30 @@
+D:\multithreading\bin\Debug\net7.0\multithreading.exe
+D:\multithreading\bin\Debug\net7.0\multithreading.deps.json
+D:\multithreading\bin\Debug\net7.0\multithreading.runtimeconfig.json
+D:\multithreading\bin\Debug\net7.0\multithreading.dll
+D:\multithreading\bin\Debug\net7.0\multithreading.pdb
+D:\multithreading\obj\Debug\net7.0\multithreading.csproj.AssemblyReference.cache
+D:\multithreading\obj\Debug\net7.0\multithreading.GeneratedMSBuildEditorConfig.editorconfig
+D:\multithreading\obj\Debug\net7.0\multithreading.AssemblyInfoInputs.cache
+D:\multithreading\obj\Debug\net7.0\multithreading.AssemblyInfo.cs
+D:\multithreading\obj\Debug\net7.0\multithreading.csproj.CoreCompileInputs.cache
+D:\multithreading\obj\Debug\net7.0\multithreading.dll
+D:\multithreading\obj\Debug\net7.0\refint\multithreading.dll
+D:\multithreading\obj\Debug\net7.0\multithreading.pdb
+D:\multithreading\obj\Debug\net7.0\multithreading.genruntimeconfig.cache
+D:\multithreading\obj\Debug\net7.0\ref\multithreading.dll
+D:\C# codes\multithreading\bin\Debug\net7.0\multithreading.exe
+D:\C# codes\multithreading\bin\Debug\net7.0\multithreading.deps.json
+D:\C# codes\multithreading\bin\Debug\net7.0\multithreading.runtimeconfig.json
+D:\C# codes\multithreading\bin\Debug\net7.0\multithreading.dll
+D:\C# codes\multithreading\bin\Debug\net7.0\multithreading.pdb
+D:\C# codes\multithreading\obj\Debug\net7.0\multithreading.csproj.AssemblyReference.cache
+D:\C# codes\multithreading\obj\Debug\net7.0\multithreading.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# codes\multithreading\obj\Debug\net7.0\multithreading.AssemblyInfoInputs.cache
+D:\C# codes\multithreading\obj\Debug\net7.0\multithreading.AssemblyInfo.cs
+D:\C# codes\multithreading\obj\Debug\net7.0\multithreading.csproj.CoreCompileInputs.cache
+D:\C# codes\multithreading\obj\Debug\net7.0\multithreading.dll
+D:\C# codes\multithreading\obj\Debug\net7.0\refint\multithreading.dll
+D:\C# codes\multithreading\obj\Debug\net7.0\multithreading.pdb
+D:\C# codes\multithreading\obj\Debug\net7.0\multithreading.genruntimeconfig.cache
+D:\C# codes\multithreading\obj\Debug\net7.0\ref\multithreading.dll
