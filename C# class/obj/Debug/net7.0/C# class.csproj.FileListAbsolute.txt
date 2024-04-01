@@ -1,0 +1,15 @@
+C:\Users\rajkumar.ramanathan\Documents\C# class\bin\Debug\net7.0\C# class.exe
+C:\Users\rajkumar.ramanathan\Documents\C# class\bin\Debug\net7.0\C# class.deps.json
+C:\Users\rajkumar.ramanathan\Documents\C# class\bin\Debug\net7.0\C# class.runtimeconfig.json
+C:\Users\rajkumar.ramanathan\Documents\C# class\bin\Debug\net7.0\C# class.dll
+C:\Users\rajkumar.ramanathan\Documents\C# class\bin\Debug\net7.0\C# class.pdb
+C:\Users\rajkumar.ramanathan\Documents\C# class\obj\Debug\net7.0\C# class.csproj.AssemblyReference.cache
+C:\Users\rajkumar.ramanathan\Documents\C# class\obj\Debug\net7.0\C# class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajkumar.ramanathan\Documents\C# class\obj\Debug\net7.0\C# class.AssemblyInfoInputs.cache
+C:\Users\rajkumar.ramanathan\Documents\C# class\obj\Debug\net7.0\C# class.AssemblyInfo.cs
+C:\Users\rajkumar.ramanathan\Documents\C# class\obj\Debug\net7.0\C# class.csproj.CoreCompileInputs.cache
+C:\Users\rajkumar.ramanathan\Documents\C# class\obj\Debug\net7.0\C# class.dll
+C:\Users\rajkumar.ramanathan\Documents\C# class\obj\Debug\net7.0\refint\C# class.dll
+C:\Users\rajkumar.ramanathan\Documents\C# class\obj\Debug\net7.0\C# class.pdb
+C:\Users\rajkumar.ramanathan\Documents\C# class\obj\Debug\net7.0\C# class.genruntimeconfig.cache
+C:\Users\rajkumar.ramanathan\Documents\C# class\obj\Debug\net7.0\ref\C# class.dll

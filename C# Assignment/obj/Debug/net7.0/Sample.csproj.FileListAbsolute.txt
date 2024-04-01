@@ -1,0 +1,15 @@
+C:\Users\rajkumar.ramanathan\Documents\Sample\bin\Debug\net7.0\Sample.exe
+C:\Users\rajkumar.ramanathan\Documents\Sample\bin\Debug\net7.0\Sample.deps.json
+C:\Users\rajkumar.ramanathan\Documents\Sample\bin\Debug\net7.0\Sample.runtimeconfig.json
+C:\Users\rajkumar.ramanathan\Documents\Sample\bin\Debug\net7.0\Sample.dll
+C:\Users\rajkumar.ramanathan\Documents\Sample\bin\Debug\net7.0\Sample.pdb
+C:\Users\rajkumar.ramanathan\Documents\Sample\obj\Debug\net7.0\Sample.csproj.AssemblyReference.cache
+C:\Users\rajkumar.ramanathan\Documents\Sample\obj\Debug\net7.0\Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajkumar.ramanathan\Documents\Sample\obj\Debug\net7.0\Sample.AssemblyInfoInputs.cache
+C:\Users\rajkumar.ramanathan\Documents\Sample\obj\Debug\net7.0\Sample.AssemblyInfo.cs
+C:\Users\rajkumar.ramanathan\Documents\Sample\obj\Debug\net7.0\Sample.csproj.CoreCompileInputs.cache
+C:\Users\rajkumar.ramanathan\Documents\Sample\obj\Debug\net7.0\Sample.dll
+C:\Users\rajkumar.ramanathan\Documents\Sample\obj\Debug\net7.0\refint\Sample.dll
+C:\Users\rajkumar.ramanathan\Documents\Sample\obj\Debug\net7.0\Sample.pdb
+C:\Users\rajkumar.ramanathan\Documents\Sample\obj\Debug\net7.0\Sample.genruntimeconfig.cache
+C:\Users\rajkumar.ramanathan\Documents\Sample\obj\Debug\net7.0\ref\Sample.dll
