@@ -1,0 +1,4 @@
+c# file handling concepts
+
+Generally, the file is used to store the data. 
+The term File Handling refers to the various operations like creating the file, reading from the file, writing to the file, appending the file, etc.
