@@ -1,0 +1,14 @@
+D:\MsBulid\MSBuild\Bin\Exe\net8.0\MSBuild.exe
+D:\MsBulid\MSBuild\Bin\Exe\net8.0\MSBuild.deps.json
+D:\MsBulid\MSBuild\Bin\Exe\net8.0\MSBuild.runtimeconfig.json
+D:\MsBulid\MSBuild\Bin\Exe\net8.0\MSBuild.dll
+D:\MsBulid\MSBuild\Bin\Exe\net8.0\MSBuild.pdb
+D:\MsBulid\MSBuild\obj\Debug\net8.0\MSBuild.GeneratedMSBuildEditorConfig.editorconfig
+D:\MsBulid\MSBuild\obj\Debug\net8.0\MSBuild.AssemblyInfoInputs.cache
+D:\MsBulid\MSBuild\obj\Debug\net8.0\MSBuild.AssemblyInfo.cs
+D:\MsBulid\MSBuild\obj\Debug\net8.0\MSBuild.csproj.CoreCompileInputs.cache
+D:\MsBulid\MSBuild\obj\Debug\net8.0\MSBuild.dll
+D:\MsBulid\MSBuild\obj\Debug\net8.0\refint\MSBuild.dll
+D:\MsBulid\MSBuild\obj\Debug\net8.0\MSBuild.pdb
+D:\MsBulid\MSBuild\obj\Debug\net8.0\MSBuild.genruntimeconfig.cache
+D:\MsBulid\MSBuild\obj\Debug\net8.0\ref\MSBuild.dll

@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk" >  
+ 
+<PropertyGroup>  
+<AssemblyName>MSBuild</AssemblyName>  
+ 
+<OutputType>Exe</OutputType>  
+ 
+<TargetFramework>net8.0</TargetFramework>  
+<OutputPath>Bin\Exe</OutputPath>  
+<ImplicitUsings>disable</ImplicitUsings>
+</PropertyGroup>
+ 
+<UsingTask TaskName="CustomTask.CustomTask" AssemblyFile="D:\CustomTask\bin\Debug\net8.0\CustomTask.dll"/>  
+ 
+<Target Name="CustomBuild" DependsOnTargets="Build" AfterTargets="Build">  
+<CustomTask OutputVersion="$(OutputPath)\Version.txt"/>  
+</Target>
+</Project>
