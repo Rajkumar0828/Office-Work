@@ -8,7 +8,9 @@ namespace mysqlefcore
   {
     static void Main(string[] args)
     {
-      InsertData();
+      //InsertData();
+      //UpdateBook("978-0544003415", "Asha", 1234);
+      DeleteBook("978-0544003415");
       PrintData();
     }
 
@@ -29,7 +31,7 @@ namespace mysqlefcore
         // Adds some books
         context.Book.Add(new Book
         {
-          ISBN = "978-0544003415",
+          ISBN = "978-4003415",
           Title = "The Lord of the Rings",
           Author = "J.R.R. Tolkien",
           Language = "English",
@@ -38,7 +40,7 @@ namespace mysqlefcore
         });
         context.Book.Add(new Book
         {
-          ISBN = "978-0547247762",
+          ISBN = "978-05762",
           Title = "The Sealed Letter",
           Author = "Emma Donoghue",
           Language = "English",
@@ -68,5 +70,40 @@ namespace mysqlefcore
         }
       }
     }
+    private static void UpdateBook(string isbn, string newTitle, int newPages)
+  {
+  using(var context = new LibraryContext())
+  {
+    // Retrieve the book by ISBN
+    var book = context.Book.FirstOrDefault(b => b.ISBN == isbn);
+    
+    if(book != null)
+    {
+      // Update the properties
+      book.Title = newTitle;
+      book.Pages = newPages;
+      
+      // Save the changes
+      context.SaveChanges();
+    }
+  }
+}
+private static void DeleteBook(string isbn)
+{
+  using(var context = new LibraryContext())
+  {
+    // Retrieve the book by ISBN
+    var bookToDelete = context.Book.FirstOrDefault(b => b.ISBN == isbn);
+    
+    if(bookToDelete != null)
+    {
+      // Remove the book from the context
+      context.Book.Remove(bookToDelete);
+      
+      // Save the changes to the database
+      context.SaveChanges();
+    }
+  }
+}
   }
 }

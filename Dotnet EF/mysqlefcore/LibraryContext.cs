@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using MySql.EntityFrameworkCore.Extensions;
 using System;
-
+using mysqlefcore;
 namespace mysqlefcore
 {
   public class LibraryContext : DbContext

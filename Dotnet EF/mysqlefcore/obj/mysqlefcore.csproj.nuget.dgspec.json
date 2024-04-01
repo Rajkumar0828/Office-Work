@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Dotnet EF\\goingcool\\mysqlefcore\\mysqlefcore.csproj": {}
+    "d:\\Dotnet EF\\mysqlefcore\\mysqlefcore.csproj": {}
   },
   "projects": {
-    "d:\\Dotnet EF\\goingcool\\mysqlefcore\\mysqlefcore.csproj": {
+    "d:\\Dotnet EF\\mysqlefcore\\mysqlefcore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Dotnet EF\\goingcool\\mysqlefcore\\mysqlefcore.csproj",
+        "projectUniqueName": "d:\\Dotnet EF\\mysqlefcore\\mysqlefcore.csproj",
         "projectName": "mysqlefcore",
-        "projectPath": "d:\\Dotnet EF\\goingcool\\mysqlefcore\\mysqlefcore.csproj",
+        "projectPath": "d:\\Dotnet EF\\mysqlefcore\\mysqlefcore.csproj",
         "packagesPath": "C:\\Users\\rajkumar.ramanathan\\.nuget\\packages\\",
-        "outputPath": "d:\\Dotnet EF\\goingcool\\mysqlefcore\\obj\\",
+        "outputPath": "d:\\Dotnet EF\\mysqlefcore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rajkumar.ramanathan\\AppData\\Roaming\\NuGet\\NuGet.Config"
