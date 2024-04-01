@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TG/ml+lRGWjX5bIlJm3mP6hsom+6IqtKquFVtD9Gr11nGDmAIC2F7Og7uzQ5BcDsbI3icDlphrNxw+0CMxMvYw==",
+  "success": true,
+  "projectFilePath": "d:\\C# codes\\Collection\\ArrayList\\ArrayList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rajkumar.ramanathan\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\rajkumar.ramanathan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\rajkumar.ramanathan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\rajkumar.ramanathan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
