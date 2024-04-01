@@ -1,0 +1,26 @@
+@model LaptopManagementSystem.Models.Laptop
+
+<h4 class="mb-4">Edit Laptop</h4>
+
+<button class="btn btn-primary mb-4">
+    <a asp-controller="Laptops" asp-action="Index" class="link-dark">Go back to Index</a>
+</button>
+
+<form method="post" class="form">
+    <input type="hidden" name="laptopId" class="form-control" required value="@Model.LaptopId"/>
+    <label>BrandId</label>
+    <input type="text" name="brandId" class="form-control" required value="@Model.BrandId" />
+    <label>ModelId</label>
+    <input type="text" name="modelId" class="form-control" required value="@Model.ModelId" />
+    <label>ProcessorId</label>
+    <input type="text" name="processorId" class="form-control" required value="@Model.ProcessorId" />
+    <label>RAMId</label>
+    <input type="text" name="ramId" class="form-control" required value="@Model.RAMId" />
+    <label>SerialNumber</label>
+    <input type="text" name="serialNumber" class="form-control" required value="@Model.SerialNumber" />
+    <label>PurchaseDate</label>
+    <input type="text" name="purchaseDate" class="form-control" required value="@Model.PurchaseDate" />
+    <button class="btn btn-info">Edit</button>
+</form>
+
+<h4>@ViewData["MENSAJE"]</h4>

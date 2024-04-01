@@ -1,0 +1,31 @@
+@model LaptopManagementSystem.Models.Laptop
+
+<h4 class="mb-4">Laptop @Model.LaptopId Details</h4>
+
+<button class="btn btn-primary mb-4">
+    <a asp-controller="Laptops" asp-action="Index" class="link-dark">Go back to Index</a>
+</button>
+
+<ul class="list-group">
+    <li class="list-group-item">
+        LaptopId: @Model.LaptopId
+    </li>
+    <li class="list-group-item">
+        BrandId: @Model.BrandId
+    </li>
+    <li class="list-group-item">
+        ModelId: @Model.ModelId
+    </li>
+    <li class="list-group-item">
+        ProcessorId: @Model.ProcessorId
+    </li>
+    <li class="list-group-item">
+        RAMId: @Model.RAMId
+    </li>
+    <li class="list-group-item">
+        SerialNumber: @Model.SerialNumber
+    </li>
+    <li class="list-group-item">
+        PurchaseDate: @Model.PurchaseDate
+    </li>
+</ul>

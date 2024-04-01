@@ -1,0 +1,43 @@
+@model List<LaptopManagementSystem.Models.Laptop>
+
+<h4 class="mb-4">List of Laptops</h4>
+
+<table class="table table-active table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>LaptopId</th>
+            <th>BrandId</th>
+            <th>ModelId</th>
+            <th>ProcessorId</th>
+            <th>RAMId</th>
+            <th>SerialNumber</th>
+            <th>PurchaseDate</th>
+            <th>ACTIONS</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var laptop in Model)
+        {
+            <tr>
+                <td>@laptop.LaptopId</td>
+                <td>@laptop.BrandId</td>
+                <td>@laptop.ModelId</td>
+                <td>@laptop.ProcessorId</td>
+                <td>@laptop.RAMId</td>
+                <td>@laptop.SerialNumber</td>
+                <td>@laptop.PurchaseDate</td>
+                <td>
+                    <button class="btn btn-warning">
+                        @Html.ActionLink("Details", "Details", "Laptops", new { id = laptop.LaptopId})
+                    </button>
+                    <button class="btn btn-danger mx-auto">
+                        @Html.ActionLink("Delete", "Delete", "Laptops", new { id = laptop.LaptopId})
+                    </button>
+                    <button class="btn btn-dark mx-auto">
+                        @Html.ActionLink("Update", "Update", "Laptops", new { id = laptop.LaptopId})
+                    </button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

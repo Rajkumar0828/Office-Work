@@ -1,0 +1,25 @@
+<h4 class="mb-4">Create a new Laptop</h4>
+
+<button class="btn btn-primary mb-4">
+    <a asp-controller="Laptops" asp-action="Index" class="link-dark">Go back to Index</a>
+</button>
+
+<form method="post" class="form">
+    <label>LaptopId</label>
+    <input type="text" name="laptopId" class="form-control" required />
+    <label>BrandId</label>
+    <input type="text" name="brandId" class="form-control" required />
+    <label>ModelId</label>
+    <input type="text" name="modelId" class="form-control" required />
+    <label>ProcessorId</label>
+    <input type="text" name="processorId" class="form-control" required />
+    <label>RAMId</label>
+    <input type="text" name="ramId" class="form-control" required />
+    <label>SerialNumber</label>
+    <input type="text" name="serialNumber" class="form-control" required />
+    <label>PurchaseDate</label>
+    <input type="text" name="purchaseDate" class="form-control" required />
+    <button class="btn btn-info">Create</button>
+</form>
+
+<h4>@ViewData["MENSAJE"]</h4>
