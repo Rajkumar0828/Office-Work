@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "C# console program set 2/1.0.0": {
+        "runtime": {
+          "C# console program set 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C# console program set 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

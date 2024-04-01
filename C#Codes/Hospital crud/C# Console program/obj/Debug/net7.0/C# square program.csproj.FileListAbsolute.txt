@@ -1,0 +1,15 @@
+D:\Dotnet core Assessments\C# square program\bin\Debug\net7.0\C# square program.exe
+D:\Dotnet core Assessments\C# square program\bin\Debug\net7.0\C# square program.deps.json
+D:\Dotnet core Assessments\C# square program\bin\Debug\net7.0\C# square program.runtimeconfig.json
+D:\Dotnet core Assessments\C# square program\bin\Debug\net7.0\C# square program.dll
+D:\Dotnet core Assessments\C# square program\bin\Debug\net7.0\C# square program.pdb
+D:\Dotnet core Assessments\C# square program\obj\Debug\net7.0\C# square program.csproj.AssemblyReference.cache
+D:\Dotnet core Assessments\C# square program\obj\Debug\net7.0\C# square program.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet core Assessments\C# square program\obj\Debug\net7.0\C# square program.AssemblyInfoInputs.cache
+D:\Dotnet core Assessments\C# square program\obj\Debug\net7.0\C# square program.AssemblyInfo.cs
+D:\Dotnet core Assessments\C# square program\obj\Debug\net7.0\C# square program.csproj.CoreCompileInputs.cache
+D:\Dotnet core Assessments\C# square program\obj\Debug\net7.0\C# square program.dll
+D:\Dotnet core Assessments\C# square program\obj\Debug\net7.0\refint\C# square program.dll
+D:\Dotnet core Assessments\C# square program\obj\Debug\net7.0\C# square program.pdb
+D:\Dotnet core Assessments\C# square program\obj\Debug\net7.0\C# square program.genruntimeconfig.cache
+D:\Dotnet core Assessments\C# square program\obj\Debug\net7.0\ref\C# square program.dll

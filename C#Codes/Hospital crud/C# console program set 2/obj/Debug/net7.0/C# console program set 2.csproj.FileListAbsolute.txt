@@ -1,0 +1,15 @@
+D:\Dotnet core Assessments\C# console program set 2\bin\Debug\net7.0\C# console program set 2.exe
+D:\Dotnet core Assessments\C# console program set 2\bin\Debug\net7.0\C# console program set 2.deps.json
+D:\Dotnet core Assessments\C# console program set 2\bin\Debug\net7.0\C# console program set 2.runtimeconfig.json
+D:\Dotnet core Assessments\C# console program set 2\bin\Debug\net7.0\C# console program set 2.dll
+D:\Dotnet core Assessments\C# console program set 2\bin\Debug\net7.0\C# console program set 2.pdb
+D:\Dotnet core Assessments\C# console program set 2\obj\Debug\net7.0\C# console program set 2.csproj.AssemblyReference.cache
+D:\Dotnet core Assessments\C# console program set 2\obj\Debug\net7.0\C# console program set 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet core Assessments\C# console program set 2\obj\Debug\net7.0\C# console program set 2.AssemblyInfoInputs.cache
+D:\Dotnet core Assessments\C# console program set 2\obj\Debug\net7.0\C# console program set 2.AssemblyInfo.cs
+D:\Dotnet core Assessments\C# console program set 2\obj\Debug\net7.0\C# console program set 2.csproj.CoreCompileInputs.cache
+D:\Dotnet core Assessments\C# console program set 2\obj\Debug\net7.0\C# console program set 2.dll
+D:\Dotnet core Assessments\C# console program set 2\obj\Debug\net7.0\refint\C# console program set 2.dll
+D:\Dotnet core Assessments\C# console program set 2\obj\Debug\net7.0\C# console program set 2.pdb
+D:\Dotnet core Assessments\C# console program set 2\obj\Debug\net7.0\C# console program set 2.genruntimeconfig.cache
+D:\Dotnet core Assessments\C# console program set 2\obj\Debug\net7.0\ref\C# console program set 2.dll
