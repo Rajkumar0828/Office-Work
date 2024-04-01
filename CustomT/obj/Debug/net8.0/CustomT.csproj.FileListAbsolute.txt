@@ -1,0 +1,5 @@
+D:\CustomT\obj\Debug\net8.0\CustomT.csproj.AssemblyReference.cache
+D:\CustomT\obj\Debug\net8.0\CustomT.GeneratedMSBuildEditorConfig.editorconfig
+D:\CustomT\obj\Debug\net8.0\CustomT.AssemblyInfoInputs.cache
+D:\CustomT\obj\Debug\net8.0\CustomT.AssemblyInfo.cs
+D:\CustomT\obj\Debug\net8.0\CustomT.csproj.CoreCompileInputs.cache

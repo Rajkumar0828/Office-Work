@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "1xnBZtWFqVfr5bcIVaKR+ovLXK5sP0N6/0fdeL1lWf6JPzY3cQNcifxI8AH/w1gE1RfwdOzu17tJaCX4R3FDgA==",
+  "success": true,
+  "projectFilePath": "D:\\CustomT\\CustomT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rajkumar.ramanathan\\.nuget\\packages\\microsoft.build.framework\\17.9.5\\microsoft.build.framework.17.9.5.nupkg.sha512",
+    "C:\\Users\\rajkumar.ramanathan\\.nuget\\packages\\microsoft.build.utilities.core\\17.9.5\\microsoft.build.utilities.core.17.9.5.nupkg.sha512",
+    "C:\\Users\\rajkumar.ramanathan\\.nuget\\packages\\microsoft.net.stringtools\\17.9.5\\microsoft.net.stringtools.17.9.5.nupkg.sha512",
+    "C:\\Users\\rajkumar.ramanathan\\.nuget\\packages\\system.collections.immutable\\8.0.0\\system.collections.immutable.8.0.0.nupkg.sha512",
+    "C:\\Users\\rajkumar.ramanathan\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\rajkumar.ramanathan\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\rajkumar.ramanathan\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

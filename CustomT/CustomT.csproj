@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <CoreCompileDependsOn>$(CoreCompileDependsOn);InvokeMyCompile</CoreCompileDependsOn>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Build.Utilities.Core" Version="17.9.5" />
+  </ItemGroup>
+
+  <UsingTask TaskName="MyCompiler.MyCompileTask" AssemblyFile="$(MSBuildProjectDirectory)\..\MyCompiler\bin\$(Configuration)\MyCompiler.dll" />
+<Target Name="MyCompile" Inputs="lorem.txt" Outputs="lorem.res.txt">
+<MyCompileTask InputFiles="lorem.txt">
+<Output TaskParameter="OutputFiles" PropertyName="OutputFiles" />
+</MyCompileTask>
+</Target>
+<Target Name="InvokeMyCompile" Inputs="lorem.txt" Outputs="lorem.res.txt">
+<Exec Command="&quot;$(MSBuildBinPath)\MSBuild.exe&quot; /t:MyCompile &quot;$(ProjectDir)$(ProjectFileName)&quot;" />
+</Target>
+
+  
+
+  </Project>
