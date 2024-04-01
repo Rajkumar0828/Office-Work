@@ -1,0 +1,15 @@
+D:\C# codes\Dotnet core Assessments\C# generic program\bin\Debug\net7.0\C# generic program.exe
+D:\C# codes\Dotnet core Assessments\C# generic program\bin\Debug\net7.0\C# generic program.deps.json
+D:\C# codes\Dotnet core Assessments\C# generic program\bin\Debug\net7.0\C# generic program.runtimeconfig.json
+D:\C# codes\Dotnet core Assessments\C# generic program\bin\Debug\net7.0\C# generic program.dll
+D:\C# codes\Dotnet core Assessments\C# generic program\bin\Debug\net7.0\C# generic program.pdb
+D:\C# codes\Dotnet core Assessments\C# generic program\obj\Debug\net7.0\C# generic program.csproj.AssemblyReference.cache
+D:\C# codes\Dotnet core Assessments\C# generic program\obj\Debug\net7.0\C# generic program.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# codes\Dotnet core Assessments\C# generic program\obj\Debug\net7.0\C# generic program.AssemblyInfoInputs.cache
+D:\C# codes\Dotnet core Assessments\C# generic program\obj\Debug\net7.0\C# generic program.AssemblyInfo.cs
+D:\C# codes\Dotnet core Assessments\C# generic program\obj\Debug\net7.0\C# generic program.csproj.CoreCompileInputs.cache
+D:\C# codes\Dotnet core Assessments\C# generic program\obj\Debug\net7.0\C# generic program.dll
+D:\C# codes\Dotnet core Assessments\C# generic program\obj\Debug\net7.0\refint\C# generic program.dll
+D:\C# codes\Dotnet core Assessments\C# generic program\obj\Debug\net7.0\C# generic program.pdb
+D:\C# codes\Dotnet core Assessments\C# generic program\obj\Debug\net7.0\C# generic program.genruntimeconfig.cache
+D:\C# codes\Dotnet core Assessments\C# generic program\obj\Debug\net7.0\ref\C# generic program.dll
