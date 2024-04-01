@@ -1,0 +1,49 @@
+D:\EntityFramework CRUD\bin\Debug\net7.0\EntityFramework CRUD.exe
+D:\EntityFramework CRUD\bin\Debug\net7.0\EntityFramework CRUD.deps.json
+D:\EntityFramework CRUD\bin\Debug\net7.0\EntityFramework CRUD.runtimeconfig.json
+D:\EntityFramework CRUD\bin\Debug\net7.0\EntityFramework CRUD.dll
+D:\EntityFramework CRUD\bin\Debug\net7.0\EntityFramework CRUD.pdb
+D:\EntityFramework CRUD\bin\Debug\net7.0\Google.Protobuf.dll
+D:\EntityFramework CRUD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\EntityFramework CRUD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\EntityFramework CRUD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\EntityFramework CRUD\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\EntityFramework CRUD\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+D:\EntityFramework CRUD\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+D:\EntityFramework CRUD\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\EntityFramework CRUD\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\EntityFramework CRUD\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+D:\EntityFramework CRUD\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\EntityFramework CRUD\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\EntityFramework CRUD\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\EntityFramework CRUD\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\EntityFramework CRUD\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\EntityFramework CRUD\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+D:\EntityFramework CRUD\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\EntityFramework CRUD\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\EntityFramework CRUD\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\EntityFramework CRUD\bin\Debug\net7.0\MySql.Data.dll
+D:\EntityFramework CRUD\bin\Debug\net7.0\MySql.Data.EntityFrameworkCore.dll
+D:\EntityFramework CRUD\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+D:\EntityFramework CRUD\bin\Debug\net7.0\MySqlConnector.dll
+D:\EntityFramework CRUD\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\EntityFramework CRUD\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\EntityFramework CRUD\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\EntityFramework CRUD\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\EntityFramework CRUD\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\EntityFramework CRUD\obj\Debug\net7.0\EntityFramework CRUD.csproj.AssemblyReference.cache
+D:\EntityFramework CRUD\obj\Debug\net7.0\EntityFramework CRUD.GeneratedMSBuildEditorConfig.editorconfig
+D:\EntityFramework CRUD\obj\Debug\net7.0\EntityFramework CRUD.AssemblyInfoInputs.cache
+D:\EntityFramework CRUD\obj\Debug\net7.0\EntityFramework CRUD.AssemblyInfo.cs
+D:\EntityFramework CRUD\obj\Debug\net7.0\EntityFramework CRUD.csproj.CoreCompileInputs.cache
+D:\EntityFramework CRUD\obj\Debug\net7.0\EntityFramework CRUD.csproj.CopyComplete
+D:\EntityFramework CRUD\obj\Debug\net7.0\EntityFramework CRUD.dll
+D:\EntityFramework CRUD\obj\Debug\net7.0\refint\EntityFramework CRUD.dll
+D:\EntityFramework CRUD\obj\Debug\net7.0\EntityFramework CRUD.pdb
+D:\EntityFramework CRUD\obj\Debug\net7.0\EntityFramework CRUD.genruntimeconfig.cache
+D:\EntityFramework CRUD\obj\Debug\net7.0\ref\EntityFramework CRUD.dll
+D:\EntityFramework CRUD\bin\Debug\net7.0\Humanizer.dll
+D:\EntityFramework CRUD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\EntityFramework CRUD\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\EntityFramework CRUD\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\EntityFramework CRUD\bin\Debug\net7.0\System.CodeDom.dll
